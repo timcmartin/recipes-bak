@@ -3,6 +3,5 @@
 ## Chapters
 
 * [Introduction](README.md)
-* [All](ALL_RECIPES.md)
-* [Mains](MAINS.md)
-* [Sides](SIDES.md)
+* [Baked Potatoes](baked_potatoes.md)
+* [Shepherd's Pie](shepherds_pie.md)
