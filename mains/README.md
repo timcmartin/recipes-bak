@@ -1,4 +1,18 @@
-Mains
-=======
+# Mains
 
-Main courses.
+* [Baked Ziti](baked_ziti.md)
+* [Beef Stir Fry](beef_stirfry.md)
+* [Bolognese](weeknight_bolognese.md)
+* [Cauliflower Pizza Crust](cauliflower_pizza.md)
+* [Chicken Pot Pie](chicken_pot_pie.md)
+* [Coconut Curry Shrimp](coconut_curry_shrimp.md)
+* [Grilled Pizza](grilled_pizza.md)
+* [Huevos Rancheros](huevos_rancheros.md)
+* [Jerk Chicken](jerk_chicken.md)
+* [Korean Fried Chicken Wings](korean_wings.md)
+* [Meatloaf](meatloaf.md)
+* [Pizza Dough](pizza_dough.md)
+* [Pizza Papalis](pizza_papalis.md)
+* [Shepherd's Pie](shepherds_pie.md)
+* [Shrimp Boil](shrimp_boil.md)
+* [Tuna Casserole](tuna_casserole.md)

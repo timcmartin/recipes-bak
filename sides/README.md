@@ -1,4 +1,16 @@
-Sides
-=======
+# Side Dishes
 
-Side dishes.
+* [Baked Potatoes](baked_potatoes.md)
+* [Buns](buns.md)
+* [Chipotle Smashed Sweet Potatoes](chipotle_potatoes.md)
+* [Coconut Rice](coconut_rice.md)
+* [Coleslaw](coleslaw.md)
+* [Corn Bread](corn_bread.md)
+* [Crock Pot Potato Casserole](potato_casserole.md)
+* [Garlic Bread](garlic_bread.md)
+* [No-Knead Bread](no_knead_bread.md)
+* [Potato Salad](potato_salad.md)
+* [Sandwich Bread](sandwich_bread.md)
+* [Tortillas](tortillas.md)
+* [Una Kale Caesar](una_caesar.md)
+* [Yorkshire Pudding](yorkshire_pudding.md)
