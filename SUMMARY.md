@@ -3,7 +3,10 @@
 ## Chapters
 
 * [Introduction](README.md)
-* [Baked Potatoes](baked_potatoes.md)
-* [Baked Ziti](baked_ziti.md)
-* [Banana Bread](banana_bread.md)
-* [Shepherd's Pie](shepherds_pie.md)
+* [Desserts](desserts/README.md)
+    * [Banana Bread](desserts/banana_bread.md)
+* [Mains](mains/README.md)
+    * [Baked Ziti](mains/baked_ziti.md)
+    * [Shepherd's Pie](mains/shepherds_pie.md)
+* [Sides](sides/README.md)
+    * [Baked Potatoes](sides/baked_potatoes.md)
