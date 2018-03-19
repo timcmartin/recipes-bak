@@ -1,5 +1,5 @@
 # Taco Seasoning
-[Source - Alton Brown]
+[Alton Brown - Good Eats - American Classics VIII: Tacos]
 
 ## Seasoning
 * 2 Tbs Chili Powder

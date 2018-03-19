@@ -5,4 +5,4 @@
 * 4 cups hot stock
 * simmer 10 mins
 * 1/4 cup wine
-* s & P
+* Salt & Pepper

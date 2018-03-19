@@ -1,5 +1,7 @@
 # Mustard Sauce
 
+> Particularly good for pork tenderloin.
+
 ## Ingredients
 * 1 - 2 Finely chopped shallots
 * 2 Tbs butter
@@ -10,5 +12,5 @@
 
 ## Directions
 1. Cook shallots in butter over moderate heat until shallots are softened.
-2. Add stock and deglaze for 2 minutes
-3. Add mustard and cream, return to boil and add lemon juice and simmer until thickened
+2. Add stock and deglaze for 2 minutes.
+3. Add mustard and cream, return to boil and add lemon juice and simmer until thickened.

@@ -1,4 +1,5 @@
 # Spicy Horseradish Tips
+[Source](http://www.gardeningknowhow.com/edible/herbs/horseradish/make-horseradish-hot.htm)
 
 * If purchasing horseradish, look for firm, unblemished roots. When cut, the root should be creamy white.
 * The root can be stored for several months between 32-38 degrees F. (0-3 C.), but for the hottest horseradish sauce, use as soon as possible. The heat begins to fade the longer it is stored.

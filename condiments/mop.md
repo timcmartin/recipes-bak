@@ -1,4 +1,4 @@
-# Mop
+# Mop Sauce
 
 * 1/4 cup water
 * 3/4 cup apple juice

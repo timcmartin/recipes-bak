@@ -1,5 +1,7 @@
 # Pill Pockets
 
+> For the dogs
+
 * Makes 12
 
 ## Ingredients
