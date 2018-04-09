@@ -1,5 +1,6 @@
 # Pizza Papalis
 [Pizza Papalis - recipe](http://www.amyscookingadventures.com/2011/03/chicago-style-stuffed-pizza-popeye.html)
+[Detroit Pizza - recipe](https://www.cookscountry.com/recipes/9775-detroit-style-pizza?extcode=MCSKD10L0&ref=new_search_experience_1`)
 
 ## Dough
 ### Ingredients
