@@ -39,7 +39,6 @@
     * [Shortbread Cutout Cookies](desserts/shortbread_cutout.md)
     * [Strawberry Rhubarb Crisp](desserts/strawberry_rhubarb.md)
 * [Mains](mains/README.md)
-    * [Avgolemono](mains/avgolemono.md)
     * [Baked Ziti](mains/baked_ziti.md)
     * [Beef Stir Fry](mains/beef_stirfry.md)
     * [Bolognese](mains/weeknight_bolognese.md)
@@ -79,4 +78,5 @@
     * [Peanut Butter Engergy Bites](snacks/pb_energy.md)
     * [Pill Pockets](snacks/pill_pockets.md)
 * [Soups](soups/README.md)
+    * [Avgolemono](soups/avgolemono.md)
     * [Cauliflower Soup](soups/cauliflower.md)

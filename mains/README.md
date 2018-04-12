@@ -1,6 +1,5 @@
 # Mains
 
-* [Avgolemono](avgolemono.md)
 * [Baked Ziti](baked_ziti.md)
 * [Beef Stir Fry](beef_stirfry.md)
 * [Bolognese](weeknight_bolognese.md)
