@@ -1,5 +1,5 @@
 # Korean Fried Chicken Wings
-[Cooks Illustrated]
+[Cooks Illustrated](https://www.cooksillustrated.com/recipes/8885-korean-fried-chicken-wings)
 
 ## Ingredients
 * 1 tablespoon toasted sesame oil
