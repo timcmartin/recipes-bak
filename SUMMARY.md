@@ -57,6 +57,7 @@
     * [Shepherd's Pie](mains/shepherds_pie.md)
     * [Shrimp Boil](mains/shrimp_boil.md)
     * [Tuna Casserole](mains/tuna_casserole.md)
+    * [Tuscan Steak Salad](mains/tuscan_steak.md)
 * [Sides](sides/README.md)
     * [Baked Potatoes](sides/baked_potatoes.md)
     * [Buns](sides/buns.md)
