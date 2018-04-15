@@ -6,6 +6,7 @@
 * [Cauliflower Pizza Crust](cauliflower_pizza.md)
 * [Chicken Pot Pie](chicken_pot_pie.md)
 * [Coconut Curry Shrimp](coconut_curry_shrimp.md)
+* [Deviled Pork Chops](deviled_pork_chops.md)
 * [Grilled Pizza](grilled_pizza.md)
 * [Huevos Rancheros](huevos_rancheros.md)
 * [Jerk Chicken](jerk_chicken.md)
