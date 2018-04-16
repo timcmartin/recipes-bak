@@ -66,6 +66,7 @@
     * [Coleslaw](sides/coleslaw.md)
     * [Corn Bread](sides/corn_bread.md)
     * [Crock Pot Potato Casserole](sides/potato_casserole.md)
+    * [English Muffins](sides/english_muffins.md)
     * [Garlic Bread](sides/garlic_bread.md)
     * [No-Knead Bread](sides/no_knead_bread.md)
     * [Potato Salad](sides/potato_salad.md)

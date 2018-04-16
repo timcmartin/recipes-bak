@@ -7,6 +7,7 @@
 * [Coleslaw](coleslaw.md)
 * [Corn Bread](corn_bread.md)
 * [Crock Pot Potato Casserole](potato_casserole.md)
+* [English Muffins](english_muffins.md)
 * [Garlic Bread](garlic_bread.md)
 * [No-Knead Bread](no_knead_bread.md)
 * [Potato Salad](potato_salad.md)
