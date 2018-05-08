@@ -85,5 +85,6 @@
     * [Avgolemono](soups/avgolemono.md)
     * [Cauliflower Soup](soups/cauliflower.md)
 * [To Try](trial/README.md)
+    * [Breville Fast Slow Cooker Chicken Stock](trial/chicken_stock.md)
     * [Dan Dan Noodles](trial/dandan.md)
     * [Fettuccine Alfredo](trial/alfredo.md)
