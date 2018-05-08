@@ -8,6 +8,7 @@
 * [Coconut Curry Shrimp](coconut_curry_shrimp.md)
 * [Deviled Pork Chops](deviled_pork_chops.md)
 * [Grilled Pizza](grilled_pizza.md)
+* [Hoisin Pork Lettuce Wraps](hoisin_pork_lettuce_wraps.md)
 * [Huevos Rancheros](huevos_rancheros.md)
 * [Jerk Chicken](jerk_chicken.md)
 * [Korean Fried Chicken Wings](korean_wings.md)
