@@ -7,6 +7,7 @@
 * [Chicken Pot Pie](chicken_pot_pie.md)
 * [Coconut Curry Shrimp](coconut_curry_shrimp.md)
 * [Deviled Pork Chops](deviled_pork_chops.md)
+* [Fettuccine Alfredo](alfredo.md)
 * [Grilled Pizza](grilled_pizza.md)
 * [Hoisin Pork Lettuce Wraps](hoisin_pork_lettuce_wraps.md)
 * [Huevos Rancheros](huevos_rancheros.md)
