@@ -9,6 +9,7 @@
     * [Thai Shrimp Skewers](appetizers/shrimp_skewers.md)
 * [Beverages](beverages/README.md)
     * [Cold Brew Coffee](beverages/cold_brew_coffee.md)
+    * [French Press Coffee](beverages/french_press.md)
     * [Percolator Coffee](beverages/percolator_coffee.md)
 * [Condiments, Spices & Sauces](condiments/README.md)
     * [Crema](condiments/crema.md)
