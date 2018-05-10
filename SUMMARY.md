@@ -89,6 +89,7 @@
     * [Cauliflower Soup](soups/cauliflower.md)
 * [To Try](trial/README.md)
     * [Breville Fast Slow Cooker Chicken Stock](trial/chicken_stock.md)
+    * [Buttermilk Substitute](trial/buttermilk.md)
     * [Dan Dan Noodles](trial/dandan.md)
     * [Flour Tortillas](trial/flour_tortillas.md)
     * [Hellman's Mayo Clone](trial/hellmans.md)
