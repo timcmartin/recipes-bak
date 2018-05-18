@@ -63,6 +63,7 @@
     * [Shrimp Boil](mains/shrimp_boil.md)
     * [Tuna Casserole](mains/tuna_casserole.md)
     * [Tuscan Steak Salad](mains/tuscan_steak.md)
+    * [Waffles](mains/waffles.md)
 * [Sides](sides/README.md)
     * [Baked Potatoes](sides/baked_potatoes.md)
     * [Buns](sides/buns.md)

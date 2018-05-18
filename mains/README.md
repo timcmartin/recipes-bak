@@ -21,3 +21,4 @@
 * [Shrimp Boil](shrimp_boil.md)
 * [Tuna Casserole](tuna_casserole.md)
 * [Tuscan Steak Salad](tuscan_steak.md)
+* [Waffles](waffles.md)
