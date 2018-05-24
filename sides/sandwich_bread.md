@@ -25,3 +25,12 @@
 * Rest: 2 1/2 hours
 * Bake 1/2 hour
 * Total: 3.25 hours
+
+#### For Freezing:
+1. Add twice as much yeast
+2. Let the bread go through its first rise, as most yeast bread goes through two rises. Allow the bread to rise in a greased bowl as per recipe instructions.
+3. After the first rise, punch down the dough and knead. Then, shape the bread dough into loaves or one single loaf.
+4. Place the loaf (or loaves) in a greased bread pan and cover with a greased plastic wrap to prevent sticking. This also allows the dough loaves to hold their shape when frozen.
+5. Place bread pans in the freezer and let the dough freeze for about 10 hours.
+6. After 10 hours, remove the bread dough from the pans. Then, wrap it in plastic wrap and place it in a resealable plastic freezer bag.
+7. Date the bag(s) of dough loaves and place in the freezer immediately. Your dough can be frozen for up to four weeks.
