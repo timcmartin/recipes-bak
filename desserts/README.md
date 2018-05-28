@@ -8,4 +8,5 @@
 * [Pumpkin Pie](pumpkin_pie.md)
 * [Salted Caramel Chocolate Stack Bars](salted_caramel_bars.md)
 * [Shortbread Cutout Cookies](shortbread_cutout.md)
+* [Strawberry Peach Cobbler](strawberry_peach_cobbler.md)
 * [Strawberry Rhubarb Crisp](strawberry_rhubarb.md)

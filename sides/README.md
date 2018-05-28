@@ -9,6 +9,7 @@
 * [Crock Pot Potato Casserole](potato_casserole.md)
 * [English Muffins](english_muffins.md)
 * [Garlic Bread](garlic_bread.md)
+* [CI Kale Caesar](ci_kale.md)
 * [No-Knead Bread](no_knead_bread.md)
 * [Potato Salad](potato_salad.md)
 * [Sandwich Bread](sandwich_bread.md)
