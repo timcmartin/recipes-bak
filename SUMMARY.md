@@ -3,6 +3,8 @@
 ## Chapters
 
 * [Introduction](README.md)
+* [Equipment](equipment/README.md)
+    * [Smoker](equipment/smokey_mountain_cooker.md)
 * [Appetizers](appetizers/README.md)
     * [Chicken Satay](appetizers/chicken_satay.md)
     * [Latin Quarter Cheese Spread](appetizers/cheese_spread.md)
