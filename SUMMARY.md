@@ -60,6 +60,7 @@
     * [Korean Fried Chicken Wings](mains/korean_wings.md)
     * [Meatballs](condiments/tomato_sauce.md#meatballs)
     * [Meatloaf](mains/meatloaf.md)
+    * [Perfect Ramen](mains/perfect_ramen.md)
     * [Pizza Dough](mains/pizza_dough.md)
     * [Pizza Papalis](mains/pizza_papalis.md)
     * [Shepherd's Pie](mains/shepherds_pie.md)
