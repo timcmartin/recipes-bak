@@ -7,7 +7,7 @@
 * 3 cups of sugar
 * 1 peeled and grated granny smith apple
 * 2 Tbs bottled lemon juice
-* 4 1 pint jars
+* 4 x 1/2 pint jars or 2 x pint jars
 
 ## Directions
 1. Place strawberries in a dutch oven and mash with a potato masher until pretty broken down with some chunks still.

@@ -15,6 +15,7 @@
 * [Pizza Sauce](pizza_sauce.md)
 * [Rub](rub.md)
 * [Saskatoon Jam](saskatoon_jam.md)
+* [Strawberry Jam](strawberry_jam.md)
 * [Taco Seasoning](taco_seasoning.md)
 * [Tomato Sauce](tomato_sauce.md)
 * [Turkey Gravy](turkey_gravy.md)

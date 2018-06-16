@@ -30,6 +30,7 @@
     * [Pizza Sauce](condiments/pizza_sauce.md)
     * [Rub](condiments/rub.md)
     * [Saskatoon Jam](condiments/saskatoon_jam.md)
+    * [Strawberry Jam](condiments/strawberry_jam.md)
     * [Taco Seasoning](condiments/taco_seasoning.md)
     * [Tomato Sauce](condiments/tomato_sauce.md#tomato-sauce)
     * [Turkey Gravy](condiments/turkey_gravy.md)
@@ -106,4 +107,3 @@
     * [Dan Dan Noodles](trial/dandan.md)
     * [Flour Tortillas](trial/flour_tortillas.md)
     * [Hellman's Mayo Clone](trial/hellmans.md)
-    * [Strawberry Jam](trial/strawberry_jam.md)
