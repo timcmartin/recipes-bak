@@ -1,6 +1,7 @@
 # Side Dishes
 
 * [Baked Potatoes](baked_potatoes.md)
+* [Brussels Sprouts](brussels_sprouts.md)
 * [Buns](buns.md)
 * [Chipotle Smashed Sweet Potatoes](chipotle_potatoes.md)
 * [Coconut Rice](coconut_rice.md)

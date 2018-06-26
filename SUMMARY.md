@@ -75,6 +75,7 @@
     * [Squirrel Repellant - Wet](misc/pepper_spray.md)
 * [Sides](sides/README.md)
     * [Baked Potatoes](sides/baked_potatoes.md)
+    * [Brussels Sprouts](sides/brussels_sprouts.md)
     * [Buns](sides/buns.md)
     * [Chipotle Smashed Sweet Potatoes](sides/chipotle_potatoes.md)
     * [CI Kale Caesar](sides/ci_kale.md)

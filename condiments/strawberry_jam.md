@@ -2,6 +2,8 @@
 
 [America's Test Kitchen]
 
+> I could not get this hotter than 209, but the plate test passed after 20 mins or so. <br/>
+
 ## Ingredients
 * 3 pounds of strawberries, cut into 1/2 inch pieces.
 * 3 cups of sugar
