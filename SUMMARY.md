@@ -108,3 +108,4 @@
     * [Dan Dan Noodles](trial/dandan.md)
     * [Flour Tortillas](trial/flour_tortillas.md)
     * [Hellman's Mayo Clone](trial/hellmans.md)
+    * [Thick Cut Pork Chops](trial/thick_cut_pork.md)
