@@ -8,4 +8,3 @@ Recipes that I haven't tried yet, but am saving for posterity.
 * [Dan Dan Noodles](dandan.md)
 * [Flour Tortillas](flour_tortillas.md)
 * [Hellman's Mayo Clone](hellmans.md)
-* [Thick Cut Pork Chops](thick_cut_pork.md)

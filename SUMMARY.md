@@ -66,6 +66,7 @@
     * [Pizza Papalis](mains/pizza_papalis.md)
     * [Shepherd's Pie](mains/shepherds_pie.md)
     * [Shrimp Boil](mains/shrimp_boil.md)
+    * [Thick Cut Pork Chops](mains/thick_cut_pork.md)
     * [Tuna Casserole](mains/tuna_casserole.md)
     * [Tuscan Steak Salad](mains/tuscan_steak.md)
     * [Waffles](mains/waffles.md)
@@ -108,4 +109,3 @@
     * [Dan Dan Noodles](trial/dandan.md)
     * [Flour Tortillas](trial/flour_tortillas.md)
     * [Hellman's Mayo Clone](trial/hellmans.md)
-    * [Thick Cut Pork Chops](trial/thick_cut_pork.md)
