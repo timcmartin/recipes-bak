@@ -15,7 +15,9 @@ I have tried to remember to include the source whenever possible, but when in do
 | Date             | Weight | Yield          | Description       | Notes                                |
 |------------------|--------|----------------|-------------------|--------------------------------------|
 | Tuesday Aug 21   | 5 lbs  |                | Dill Pickles      | Ready September 28                   |
-| Wednesday Aug 22 | 20 lbs | 5 Litres       | Whole tomatoes    |                                      |
+| Wednesday Aug 22 | 20 lbs | 5 Litres       | Whole tomatoes    | Roma                                 |
 | Saturday Aug 25  | 8 lbs  | 2 Gallon Crock | Sour Dill Pickles | Start scumming on 28<br> Taste Sep 4 |
 | Saturday Aug 25  | 12 lbs | 12 Litres      | Dill Pickles      | 2 X 1 L, 20 * 500 ml                 |
-
+| Saturday Sept 1  | 45 lbs | 8 Litres       | Tomato Sauce      | 8 X 1 L                              |
+| Saturday Sept 1  | 10 lbs | 5 Litres       | Chili Sauce       | 10 X 500 ml                          |
+| Saturday Sept 1  | 25 lbs | 8 Litres       | Whole Tomatoes    | 8 X 1 L                              |

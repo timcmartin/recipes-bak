@@ -79,6 +79,7 @@
     * [Dill Pickles](preserving/dill_pickles.md)
     * [Fermented Dill Pickles](preserving/fermented_dill_pickles.md)
 * [Sides](sides/README.md)
+    * [Baked Beans](sides/baked_beans.md)
     * [Baked Potatoes](sides/baked_potatoes.md)
     * [Brussels Sprouts](sides/brussels_sprouts.md)
     * [Buns](sides/buns.md)

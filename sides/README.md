@@ -1,5 +1,6 @@
 # Side Dishes
 
+* [Baked Beans](baked_beans.md)
 * [Baked Potatoes](baked_potatoes.md)
 * [Brussels Sprouts](brussels_sprouts.md)
 * [Buns](buns.md)
