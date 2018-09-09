@@ -21,3 +21,5 @@ I have tried to remember to include the source whenever possible, but when in do
 | Saturday Sept 1  | 45 lbs | 8 Litres       | Tomato Sauce      | 8 X 1 L                              |
 | Saturday Sept 1  | 10 lbs | 5 Litres       | Chili Sauce       | 10 X 500 ml                          |
 | Saturday Sept 1  | 25 lbs | 8 Litres       | Whole Tomatoes    | 8 X 1 L                              |
+| Saturday Sept 8  |        | 1.5 Litres     | Pickled Peppers   | 2 X .5 L, 2 x .25 L                  |
+
