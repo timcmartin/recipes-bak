@@ -1,6 +1,7 @@
 # Baked Beans
 
 [Steven Raichlen's Barbecue Bible](https://barbecuebible.com/recipe/best-barbecued-beans-planet/)
+
 ## Ingredients
 * 1	pound smoked brisket or bacon, cut into 1/4-inch slivers
 * 1	can (15 ounces) black beans
