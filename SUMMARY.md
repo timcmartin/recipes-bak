@@ -113,5 +113,6 @@
     * [Breville Fast Slow Cooker Chicken Stock](trial/chicken_stock.md)
     * [Buttermilk Substitute](trial/buttermilk.md)
     * [Dan Dan Noodles](trial/dandan.md)
+    * [Dutchie Donuts](trial/dutchies.md)
     * [Flour Tortillas](trial/flour_tortillas.md)
     * [Hellman's Mayo Clone](trial/hellmans.md)
