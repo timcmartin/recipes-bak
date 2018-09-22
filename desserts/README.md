@@ -4,6 +4,7 @@
 * [Blueberry Mug Cake](blueberry_mug_cake.md)
 * [Cheesecake in a Jar](cheesecake.md)
 * [Chocolate Zucchini Bread](chocolate_zucchini.md)
+* [Dutchie Donuts](dutchies.md)
 * [Pie Dough](pie_dough.md)
 * [Pumpkin Pie](pumpkin_pie.md)
 * [Salted Caramel Chocolate Stack Bars](salted_caramel_bars.md)
