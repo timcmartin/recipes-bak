@@ -8,3 +8,4 @@
 * [Pickled Peppers](pickled_peppers.md)
 * [Saskatoon Jam](saskatoon_jam.md)
 * [Strawberry Jam](strawberry_jam.md)
+* [Tomato Chow](tomato_chow.md)

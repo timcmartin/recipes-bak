@@ -29,3 +29,15 @@ Makes 8 500ml (1 pint) Jars
 
 Wait 3 - 4 weeks for pickles.
 
+## Mary Prada's Pickles
+
+### Brine
+* 6 Quarts of water
+* 1 Quart of white vinegar
+* 1 1/2 cups pickling salt
+* 1/4 cup pickling spice
+
+### Directions
+1. Wash pickles and pack into jars with dill on bottowm and 1 clove of garlic.
+2. place dill on top with another clove of garlic - 1 whole stem of dill per 2 quart jar.
+3. Cook brine for about 15 min - fill and process.
