@@ -13,6 +13,7 @@
 * [Huevos Rancheros](huevos_rancheros.md)
 * [Jerk Chicken](jerk_chicken.md)
 * [Korean Fried Chicken Wings](korean_wings.md)
+* [Kung Pao Chicken](kung_pao_chicken.md)
 * [Meatballs](../condiments/tomato_sauce.md#meatballs)
 * [Meatloaf](meatloaf.md)
 * [Perfect Ramen](perfect_ramen.md)

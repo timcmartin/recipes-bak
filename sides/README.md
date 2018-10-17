@@ -4,6 +4,7 @@
 * [Baked Potatoes](baked_potatoes.md)
 * [Brussels Sprouts](brussels_sprouts.md)
 * [Buns](buns.md)
+* [Chinese Restaurant Style Rice](chinese_restaurant_rice.md)
 * [Chipotle Smashed Sweet Potatoes](chipotle_potatoes.md)
 * [Coconut Rice](coconut_rice.md)
 * [Coleslaw](coleslaw.md)
