@@ -15,6 +15,7 @@
     * [French Press Coffee](beverages/french_press.md)
     * [Percolator Coffee](beverages/percolator_coffee.md)
 * [Condiments, Spices & Sauces](condiments/README.md)
+    * [BBQ Rub](condiments/bbq_rub.md)
     * [Caesar Dressing](condiments/caesar_dressing.md)
     * [Crema](condiments/crema.md)
     * [Horseradish Cream](condiments/horseradish_cream.md)
