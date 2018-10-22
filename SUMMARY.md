@@ -69,6 +69,7 @@
     * [Tuscan Steak Salad](mains/tuscan_steak.md)
     * [Waffles](mains/waffles.md)
 * [Miscellaneous](misc/README.md)
+    * [Dog Food](misc/dog_food.md)
     * [Mosquito Repellant](misc/mosquito.md)
     * [Squirrel Repellant - Dry](misc/squirrel.md)
     * [Squirrel Repellant - Wet](misc/pepper_spray.md)
