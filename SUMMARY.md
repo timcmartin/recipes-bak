@@ -65,6 +65,7 @@
     * [Pizza Papalis](mains/pizza_papalis.md)
     * [Shepherd's Pie](mains/shepherds_pie.md)
     * [Shrimp Boil](mains/shrimp_boil.md)
+    * [Top Loin Roast](mains/top_loin_roast.md)
     * [Thick Cut Pork Chops](mains/thick_cut_pork.md)
     * [Tuna Casserole](mains/tuna_casserole.md)
     * [Tuscan Steak Salad](mains/tuscan_steak.md)
