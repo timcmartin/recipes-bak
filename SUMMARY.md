@@ -96,6 +96,7 @@
     * [Crock Pot Potato Casserole](sides/potato_casserole.md)
     * [English Muffins](sides/english_muffins.md)
     * [Garlic Bread](sides/garlic_bread.md)
+    * [Glazed Carrots](sides/glazed_carrots.md)
     * [No-Knead Bread](sides/no_knead_bread.md)
     * [Potato Salad](sides/potato_salad.md)
     * [Sandwich Bread](sides/sandwich_bread.md)
