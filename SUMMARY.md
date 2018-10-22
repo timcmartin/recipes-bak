@@ -76,6 +76,7 @@
     * [Mosquito Repellant](misc/mosquito.md)
     * [Squirrel Repellant - Dry](misc/squirrel.md)
     * [Squirrel Repellant - Wet](misc/pepper_spray.md)
+    * [Turkey Brine](misc/turkey_brine.md)
 * [Preserving](preserving/README.md)
     * [Dill Pickles](preserving/dill_pickles.md)
     * [Fermented Dill Pickles](preserving/fermented_dill_pickles.md)
