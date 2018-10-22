@@ -118,6 +118,7 @@
     * [Avgolemono](soups/avgolemono.md)
     * [Cauliflower Soup](soups/cauliflower.md)
     * [Breville Fast Slow Cooker Chicken Stock](soups/chicken_stock.md)
+    * [French Onion Soup](soups/french_onion_soup.md)
 * [To Try](trial/README.md)
     * [Bread and Butter Pickles](trial/bb_pickles.md)
     * [Buttermilk Substitute](trial/buttermilk.md)
