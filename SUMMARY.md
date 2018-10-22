@@ -17,6 +17,7 @@
 * [Condiments, Spices & Sauces](condiments/README.md)
     * [Caesar Dressing](condiments/caesar_dressing.md)
     * [Crema](condiments/crema.md)
+    * [Horseradish Cream](condiments/horseradish_cream.md)
     * [KFC Spice](condiments/kfc.md)
     * [Korean BBQ Sauce](condiments/korean_bbq.md)
     * [Mayonnaise](condiments/mayonnaise.md)

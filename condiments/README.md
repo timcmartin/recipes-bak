@@ -2,6 +2,7 @@
 
 * [Caesar Dressing](caesar_dressing.md)
 * [Crema](crema.md)
+* [Horseradish Cream](horseradish_cream.md)
 * [KFC Spice](kfc.md)
 * [Korean BBQ Sauce](korean_bbq.md)
 * [Mayonnaise](mayonnaise.md)
