@@ -16,6 +16,7 @@
 * [Kung Pao Chicken](kung_pao_chicken.md)
 * [Meatballs](../condiments/tomato_sauce.md#meatballs)
 * [Meatloaf](meatloaf.md)
+* [Oven Ribs](oven_ribs.md)
 * [Perfect Ramen](perfect_ramen.md)
 * [Pizza Dough](pizza_dough.md)
 * [Pizza Papalis](pizza_papalis.md)
