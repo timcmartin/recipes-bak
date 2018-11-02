@@ -1,4 +1,5 @@
 # Oven Ribs
+[Steven Raichlen - Ribs, Ribs, Outrageous Ribs](https://www.thekansascitybbqstore.com/products/ribs-ribs-outrageous-ribs-raichlen)
 
 ## Directions
 1. Preheat oven to 350.
