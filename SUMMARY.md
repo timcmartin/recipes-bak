@@ -127,5 +127,6 @@
     * [Bread and Butter Pickles](trial/bb_pickles.md)
     * [Buttermilk Substitute](trial/buttermilk.md)
     * [Dan Dan Noodles](trial/dandan.md)
+    * [Donairs](trial/donairs.md)
     * [Flour Tortillas](trial/flour_tortillas.md)
     * [Hellman's Mayo Clone](trial/hellmans.md)
