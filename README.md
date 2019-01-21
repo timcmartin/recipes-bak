@@ -25,3 +25,6 @@ I have tried to remember to include the source whenever possible, but when in do
 
 ## Notes
 * Cooks Illustrated Granola bars -> one bag of apricots
+
+## To Build
+* https://www.foodnetwork.com/recipes/food-network-kitchen/beef-and-bean-chili-3852336

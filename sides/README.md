@@ -11,6 +11,7 @@
 * [Corn Bread](corn_bread.md)
 * [Crock Pot Potato Casserole](potato_casserole.md)
 * [English Muffins](english_muffins.md)
+* [Fondant Potatoes](fondant_potatoes.md)
 * [Garlic Bread](garlic_bread.md)
 * [Glazed Carrots](glazed_carrots.md)
 * [CI Kale Caesar](ci_kale.md)
