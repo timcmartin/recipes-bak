@@ -1,6 +1,7 @@
 # Mains
 
 * [Baked Ziti](baked_ziti.md)
+* [Beef And Bean Chili](beef_and_bean_chili.md)
 * [Beef Stir Fry](beef_stirfry.md)
 * [Bolognese](weeknight_bolognese.md)
 * [Cauliflower Pizza Crust](cauliflower_pizza.md)
@@ -8,6 +9,7 @@
 * [Coconut Curry Shrimp](coconut_curry_shrimp.md)
 * [Deviled Pork Chops](deviled_pork_chops.md)
 * [Fettuccine Alfredo](alfredo.md)
+* [Grain Bowls](grain_bowls.md)
 * [Grilled Pizza](grilled_pizza.md)
 * [Hoisin Pork Lettuce Wraps](hoisin_pork_lettuce_wraps.md)
 * [Huevos Rancheros](huevos_rancheros.md)
