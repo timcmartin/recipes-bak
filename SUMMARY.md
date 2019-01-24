@@ -52,6 +52,7 @@
     * [Beef And Bean Chili](mains/beef_and_bean_chili.md)
     * [Beef Stir Fry](mains/beef_stirfry.md)
     * [Bolognese](mains/weeknight_bolognese.md)
+    * [Cabbage Rolls](mains/cabbage_rolls.md)
     * [Cauliflower Pizza Crust](mains/cauliflower_pizza.md)
     * [Chicken Pot Pie](mains/chicken_pot_pie.md)
     * [Coconut Curry Shrimp](mains/coconut_curry_shrimp.md)

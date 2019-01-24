@@ -4,6 +4,7 @@
 * [Beef And Bean Chili](beef_and_bean_chili.md)
 * [Beef Stir Fry](beef_stirfry.md)
 * [Bolognese](weeknight_bolognese.md)
+* [Cabbage Rolls](cabbage_rolls.md)
 * [Cauliflower Pizza Crust](cauliflower_pizza.md)
 * [Chicken Pot Pie](chicken_pot_pie.md)
 * [Coconut Curry Shrimp](coconut_curry_shrimp.md)
