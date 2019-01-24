@@ -13,7 +13,7 @@ http://www.dinnerwithjulie.com/2017/05/31/cabbage-rolls/
 * cooked rice
 * fresh dill
 * S & P & Vegata
-* 2-3 cups tomato sauce
+* 2-3 cups [tomato sauce](../condiments/tomato_sauce.md#tomato-sauce)
 * 1 Tbsp brown sugar
 
 ### Doubled
