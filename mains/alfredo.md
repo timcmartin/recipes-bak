@@ -7,7 +7,7 @@
 ## Ingredients
 - 1	pound fettuccine
 - Salt
-- 4	ounces Parmigiano-Reggiano, grated (2 cups), plus extra for serving
+- 4	ounces Parmigiano-Reggiano, grated (2 cups), plus extra for serving
 - 5	tablespoons unsalted butter, cut into 5 pieces
 
 ## Directions
