@@ -24,6 +24,7 @@
 * [Pizza Dough](pizza_dough.md)
 * [Pizza Papalis](pizza_papalis.md)
 * [Pressure Cooker Beef Stew](pressure_cooker_beef_stew.md)
+* [Prime Rib](prime_rib.md)
 * [Shepherd's Pie](shepherds_pie.md)
 * [Shrimp Boil](shrimp_boil.md)
 * [Smothered Chicken](smothered_chicken.md)
