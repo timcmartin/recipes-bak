@@ -116,6 +116,7 @@
     * [No-Knead Bread](sides/no_knead_bread.md)
     * [Potato Salad](sides/potato_salad.md)
     * [Sandwich Bread](sides/sandwich_bread.md)
+    * [Scalloped Potatoes](sides/scalloped_potatoes.md)
     * [Tortillas](sides/tortillas.md)
     * [Una Kale Caesar](sides/una_caesar.md)
     * [Yorkshire Pudding](sides/yorkshire_pudding.md)
