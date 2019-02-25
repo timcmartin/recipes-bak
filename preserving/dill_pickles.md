@@ -19,7 +19,7 @@ Makes 8 500ml (1 pint) Jars
 
 ## Directions
 1. Scrub cukes and trim the blossom end (opposite end to stem).
-2. Prep canner and jars a la America's Test Kitchen. 
+2. Prep canner and jars a la America's Test Kitchen.
 3. Brine: bring vinegar, water and salt to a low boil and brine becomes clear.
 4. Jars: 2 cloves of garlic, fresh dill, 1/4 tsp pickle crisp, 3/4 tsp mustard seed, 1/4 tsp dill seed, few peppercorns and red pepper flake.
 5. Pack with cucumbers and ladel brine, leave 1/2 inch of headspace.
@@ -39,5 +39,5 @@ Wait 3 - 4 weeks for pickles.
 
 ### Directions
 1. Wash pickles and pack into jars with dill on bottowm and 1 clove of garlic.
-2. place dill on top with another clove of garlic - 1 whole stem of dill per 2 quart jar.
+2. Place dill on top with another clove of garlic - 1 whole stem of dill per 2 quart jar.
 3. Cook brine for about 15 min - fill and process.
