@@ -39,6 +39,7 @@
     * [Banana Bread](desserts/banana_bread.md)
     * [Blueberry Mug Cake](desserts/blueberry_mug_cake.md)
     * [Cheesecake in a Jar](desserts/cheesecake.md)
+    * [Chocolate Pudding](desserts/chocolate_pudding.md)
     * [Chocolate Zucchini Bread](desserts/chocolate_zucchini.md)
     * [Dutchie Donuts](desserts/dutchies.md)
     * [Pie Dough](desserts/pie_dough.md)

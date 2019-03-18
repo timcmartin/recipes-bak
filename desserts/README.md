@@ -3,6 +3,7 @@
 * [Banana Bread](banana_bread.md)
 * [Blueberry Mug Cake](blueberry_mug_cake.md)
 * [Cheesecake in a Jar](cheesecake.md)
+* [Chocolate Pudding](chocolate_pudding.md)
 * [Chocolate Zucchini Bread](chocolate_zucchini.md)
 * [Dutchie Donuts](dutchies.md)
 * [Pie Dough](pie_dough.md)
