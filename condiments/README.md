@@ -1,6 +1,7 @@
 # Condiments, Spices and Sauces
 
 * [BBQ Rub](bbq_rub.md)
+* [Blue Cheese Dressing](blue_cheese_dressing.md)
 * [Caesar Dressing](caesar_dressing.md)
 * [Crema](crema.md)
 * [Horseradish Cream](horseradish_cream.md)
