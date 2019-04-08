@@ -1,6 +1,6 @@
 # Breakfast
 
-## Home Fries
+## [Home Fries](#home_fries)
 > If you need to double this recipe, instead of crowding the skillet, cook two batches of home fries separately. While you make the second batch, the first can be kept hot and crisp by spreading them on a cookie sheet and placing them in a 300-degree oven. The paprika adds a warm, deep color, but can be omitted. An alternative is to toss in 1 tablespoon minced parsley just before serving the potatoes.
 
 ### Ingredients
@@ -16,7 +16,7 @@
 2. Meanwhile, place diced potatoes in large saucepan, cover with 1/2 inch water, add 1 teaspoon salt, and place over high heat. As soon as water begins to boil, about 6 minutes, drain potatoes thoroughly in colander.
 3. Heat butter and remaining 1 1/2 tablespoons oil in now-empty skillet over medium-high heat until butter foams. Add potatoes and shake skillet to evenly distribute potatoes in single layer; make sure that one side of each piece is touching surface of skillet. Cook without stirring until potatoes are golden brown on bottom, about 4 to 5 minutes, then carefully turn potatoes with wooden spatula. Spread potatoes in single layer in skillet again and repeat process until potatoes are tender and browned on most sides, turning three to four times, 10 to 15 minutes longer. Add onions, paprika, remaining 1/4 teaspoon salt, and pepper to taste; stir to blend and serve immediately.
 
-## Hollandaise
+## [Hollandaise](#hollandaise)
 
 ### Ingredients
 * 12	tablespoons unsalted butter, softened
@@ -29,7 +29,7 @@
 1. Whisk butter and egg yolks together in large heat-resistant bowl set over medium saucepan with 1/2 inch of barely simmering water (don't let bowl touch water) until mixture is smooth and homogeneous.
 2. Slowly add 1/2 cup boiling water and cook, whisking constantly, until thickened and sauce registers 160 to 165 degrees on instant-read thermometer, 7 to 10 minutes. Off heat, stir in lemon juice and cayenne. Season with salt to taste.  Remove saucepan from heat (keep bowl over water bath) and season with salt to taste. Cover to keep warm.
 
-## Poached Eggs
+## [Poached Eggs](#poached_eggs)
 > For the best results, be sure to use the freshest eggs possible. Cracking the eggs into a colander will rid them of any watery, loose whites and result in perfectly shaped poached eggs. This recipe can be used to cook from one to four eggs. To make two batches of eggs to serve all at once, transfer four cooked eggs directly to a large pot of 150-degree water and cover them. This will keep them warm for 15 minutes or so while you return the poaching water to a boil and cook the next batch. We like to serve these eggs on buttered toast or toasted and buttered English muffins or on salads made with assertively flavored greens.
 
 ### Ingredients
