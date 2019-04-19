@@ -9,6 +9,7 @@
 * [Cauliflower Pizza Crust](cauliflower_pizza.md)
 * [Chicken Pot Pie](chicken_pot_pie.md)
 * [Coconut Curry Shrimp](coconut_curry_shrimp.md)
+* [Deconstructed Turkey](deconstructed_turkey.md)
 * [Deviled Pork Chops](deviled_pork_chops.md)
 * [Fettuccine Alfredo](alfredo.md)
 * [Grain Bowls](grain_bowls.md)

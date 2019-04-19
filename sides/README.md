@@ -22,4 +22,5 @@
 * [Scalloped Potatoes](scalloped_potatoes.md)
 * [Tortillas](tortillas.md)
 * [Una Kale Caesar](una_caesar.md)
+* [Vegetable Medley](vegetable_medley.md)
 * [Yorkshire Pudding](yorkshire_pudding.md)
