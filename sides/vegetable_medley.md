@@ -7,7 +7,7 @@
 * 1 head cauliflower
 * 3 carrots
 
-### Sauce
+### [Cheese Sauce](#sauce)
 * 4 Tbs butter
 * 1/4 cup of flour
 * 2 cups milk

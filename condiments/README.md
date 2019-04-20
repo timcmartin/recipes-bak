@@ -3,6 +3,7 @@
 * [BBQ Rub](bbq_rub.md)
 * [Blue Cheese Dressing](blue_cheese_dressing.md)
 * [Caesar Dressing](caesar_dressing.md)
+* [Cheese Sauce](../sides/vegetable_medley.md#sauce)
 * [Crema](crema.md)
 * [Hollandaise](../mains/breakfast.md#hollandaise)
 * [Horseradish Cream](horseradish_cream.md)
