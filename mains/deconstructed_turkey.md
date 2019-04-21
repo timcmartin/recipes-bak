@@ -1,6 +1,9 @@
 # Deconstructed Turkey
 
 [Dinner With Julie - Deconstructed Turkey](http://www.dinnerwithjulie.com/2016/10/03/deconstructed-turkey-stuffing/)
+> Tried this on the keg, Easter 2019.
+> Used 3/4 chimney of Blues Hog charcoal, a couple of chunks of cherry and kept temp between 350 and 400 with diffuser.
+> 20 pound turkey took about 1:45  Did stuffing covered in oven for 1 hour.
 
 ## Ingredients
 * 1 10-15 lb (5-7 kg) fresh turkey (or whatever size you like)
@@ -13,6 +16,7 @@
 * salt and pepper, to taste
 * 1-2 cups chicken or turkey stock
 * a few sprigs of fresh thyme
+* [Turkey Gravy](../condiments/turkey_gravy.md#CIGravy)
 
 ## Directions
 1. Break down your turkey or get your butcher to break it down for you - I left the drumsticks and thighs intact, so wound up with two thigh/drumsticks, two breast pieces and two wings. He also gave me the carcass to take home for stock.

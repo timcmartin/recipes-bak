@@ -7,7 +7,7 @@
 * 1/4 cup wine
 * Salt & Pepper
 
-## Cooks Illustrated Game Changing Gravy
+## [Cooks Illustrated Game Changing Gravy](#CIGravy)
 
 ### Ingredients
 * 6 cups chicken stock divided
