@@ -1,5 +1,6 @@
 # Snacks
 
+* [Hot Donair Dip](hot_donair_dip.md)
 * [Hummus](hummus.md)
 * [Popcorn Maker](popcorn_maker.md)
 * [Nuts & Bolts](nuts_bolts.md)

@@ -132,6 +132,7 @@
     * [Vegetable Medley](sides/vegetable_medley.md)
     * [Yorkshire Pudding](sides/yorkshire_pudding.md)
 * [Snacks](snacks/README.md)
+    * [Hot Donair Dip](snacks/hot_donair_dip.md)
     * [Hummus](snacks/hummus.md)
     * [Nuts & Bolts](snacks/nuts_bolts.md)
     * [Peanut Butter Engergy Bites](snacks/pb_energy.md)
