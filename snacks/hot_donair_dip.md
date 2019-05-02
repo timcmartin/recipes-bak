@@ -1,4 +1,5 @@
 # Hot Donair Dip
+>> From Allison Seto, Getty Dip Off
 
 ## Ingredients
 
