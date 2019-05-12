@@ -20,6 +20,7 @@
 * [Potato Salad](potato_salad.md)
 * [Sandwich Bread](sandwich_bread.md)
 * [Scalloped Potatoes](scalloped_potatoes.md)
+* [Steakhouse Salad](steakhouse_salad.md)
 * [Tortillas](tortillas.md)
 * [Una Kale Caesar](una_caesar.md)
 * [Vegetable Medley](vegetable_medley.md)

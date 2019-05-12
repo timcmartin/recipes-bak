@@ -127,6 +127,7 @@
     * [Potato Salad](sides/potato_salad.md)
     * [Sandwich Bread](sides/sandwich_bread.md)
     * [Scalloped Potatoes](sides/scalloped_potatoes.md)
+    * [Steakhouse Salad](sides/steakhouse_salad.md)
     * [Tortillas](sides/tortillas.md)
     * [Una Kale Caesar](sides/una_caesar.md)
     * [Vegetable Medley](sides/vegetable_medley.md)
