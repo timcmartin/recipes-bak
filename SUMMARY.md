@@ -7,6 +7,7 @@
     * [Nespresso Descaling](equipment/nespresso.md)
     * [Smoker](equipment/smokey_mountain_cooker.md)
 * [Appetizers](appetizers/README.md)
+    * [Blue Cheese Dip](appetizers/blue_cheese_dip.md)
     * [Chicken Satay](appetizers/chicken_satay.md)
     * [Latin Quarter Cheese Spread](appetizers/cheese_spread.md)
     * [Shrimp Cocktail](appetizers/shrimp_cocktail.md)
