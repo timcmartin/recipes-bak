@@ -5,6 +5,7 @@
 * [Beef Stir Fry](beef_stirfry.md)
 * [Bolognese](weeknight_bolognese.md)
 * [Breakfast](breakfast.md)
+* [Brisket](brisket.md)
 * [Cabbage Rolls](cabbage_rolls.md)
 * [Cauliflower Pizza Crust](cauliflower_pizza.md)
 * [Chicken Pot Pie](chicken_pot_pie.md)
