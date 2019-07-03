@@ -1,5 +1,11 @@
 # Top 9 tips to make perfect barbecue brisket in your own backyard
 
+> Canada Day weekend, 2019 I rubbed my brisket with salt, pepper and red pepper flakes.
+Started smoking it around noon, at 270.  Wrapped at 165 in foil, done after 9 hours.
+Pulled off, and let cool in foil.  After 3 hours, sealed it in vacuum bag and put in the fridge.
+The next day, pulled it out about an hour before heating.  Put it in a cooler with boiling water,
+and let set for about 3 hours, but was good after 2.  Deeeeeeelicious.
+
 ## By Steven Raichlen - The New York Times
 
 Never in the annals of American barbecue has brisket — great brisket — been so widely available.
