@@ -4,7 +4,7 @@
 
 ## Ingredients
 
-* 1 cup mayonnaise
+* 1 cup (8 oz) mayonnaise
 * 1/2 cup crumbled Maytag or other blue cheese (about 3 ounces), divided
 * 1/2 cup half and half
 * 2 tablespoons sour cream
