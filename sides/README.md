@@ -9,6 +9,7 @@
 * [Coconut Rice](coconut_rice.md)
 * [Coleslaw](coleslaw.md)
 * [Corn Bread](corn_bread.md)
+* [Creamed Corn](creamed_corn.md)
 * [Crock Pot Potato Casserole](potato_casserole.md)
 * [English Muffins](english_muffins.md)
 * [Fondant Potatoes](fondant_potatoes.md)

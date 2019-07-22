@@ -120,6 +120,7 @@
     * [Coconut Rice](sides/coconut_rice.md)
     * [Coleslaw](sides/coleslaw.md)
     * [Corn Bread](sides/corn_bread.md)
+    * [Creamed Corn](sides/creamed_corn.md)
     * [Crock Pot Potato Casserole](sides/potato_casserole.md)
     * [English Muffins](sides/english_muffins.md)
     * [Fondant Potatoes](sides/fondant_potatoes.md)
