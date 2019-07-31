@@ -77,6 +77,7 @@
     * [Meatballs](condiments/tomato_sauce.md#meatballs)
     * [Meatloaf](mains/meatloaf.md)
     * [Oven Ribs](mains/oven_ribs.md)
+    * [Pad Thai](mains/pad_thai.md)
     * [Pancakes](mains/pancakes.md)
     * [Perfect Ramen](mains/perfect_ramen.md)
     * [Pizza Dough](mains/pizza_dough.md)
