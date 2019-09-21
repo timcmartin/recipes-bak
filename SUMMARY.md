@@ -24,6 +24,7 @@
     * [Blue Cheese Dressing](condiments/blue_cheese_dressing.md)
     * [Caesar Dressing](condiments/caesar_dressing.md)
     * [Cheese Sauce](sides/vegetable_medley.md#sauce)
+    * [Chili Sauce](condiments/chili_sauce.md)
     * [Crema](condiments/crema.md)
     * [Hollandaise](mains/breakfast.md#hollandaise)
     * [Horseradish Cream](condiments/horseradish_cream.md)
