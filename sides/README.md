@@ -18,6 +18,7 @@
 * [Home Fries](../mains/breakfast.md#home_fries)
 * [CI Kale Caesar](ci_kale.md)
 * [No-Knead Bread](no_knead_bread.md)
+* [Parker House Rolls](parker_house_rolls.md)
 * [Potato Salad](potato_salad.md)
 * [Sandwich Bread](sandwich_bread.md)
 * [Scalloped Potatoes](scalloped_potatoes.md)

@@ -33,6 +33,7 @@
 * [Pork Belly Burnt Ends](pork_belly_burnt_ends.md)
 * [Pressure Cooker Beef Stew](pressure_cooker_beef_stew.md)
 * [Prime Rib](prime_rib.md)
+* [Shaking Beef](shaking_beef.md)
 * [Shepherd's Pie](shepherds_pie.md)
 * [Shrimp Boil](shrimp_boil.md)
 * [Smothered Chicken](smothered_chicken.md)
