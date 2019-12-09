@@ -28,24 +28,5 @@ I have tried to remember to include the source whenever possible, but when in do
 | 8 tablespoons (1 stick, or 1/2 cup)   | 4      | 113   |
 | 16 tablespoons (2 sticks, or 1 cup)   | 8      | 227   |
 
-## 2018 Canning Calendar
-
-| Date             | Weight | Yield          | Description       | Notes                                |
-|------------------|--------|----------------|-------------------|--------------------------------------|
-| Tuesday Aug 21   | 5 lbs  |                | Dill Pickles      | Ready September 28                   |
-| Wednesday Aug 22 | 20 lbs | 5 Litres       | Whole tomatoes    | Roma                                 |
-| Saturday Aug 25  | 8 lbs  | 2 Gallon Crock | Sour Dill Pickles | Start scumming on 28<br> Taste Sep 4 |
-| Saturday Aug 25  | 12 lbs | 12 Litres      | Dill Pickles      | 2 X 1 L, 20 * 500 ml                 |
-| Saturday Sept 1  | 45 lbs | 8 Litres       | Tomato Sauce      | 8 X 1 L                              |
-| Saturday Sept 1  | 10 lbs | 5 Litres       | Chili Sauce       | 10 X 500 ml                          |
-| Saturday Sept 1  | 25 lbs | 8 Litres       | Whole Tomatoes    | 8 X 1 L                              |
-| Saturday Sept 8  |        | 1.5 Litres     | Pickled Peppers   | 2 X .5 L, 2 x .25 L                  |
-
-## 2019 Canning Calendar
-
-| Date          | Weight | Yield      | Description    | Notes                                                                         |
-|---------------|--------|------------|----------------|-------------------------------------------------------------------------------|
-| Friday Aug 23 | 10 lbs | 3.5 Litres | Strawberry Jam | 8 X 250, 3 X 600 ml <br>2 boxes from Jungle Farms<br> Made 3 batches at once. |
-
 ## Notes
 * Cooks Illustrated Granola bars -> one bag of apricots
