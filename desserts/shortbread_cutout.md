@@ -1,6 +1,6 @@
 # Shortbread Cutout Cookies
 
-> Notes 2019: I made a batch of Julie's from the WestJet Magazine with dark brown sugar and did not care for them.  A batch with plain white sugar was much better.  Chill the dough for 10 minutes before rolling.  Place first tray in the freezer while you cut the second tray.  12 minutes was enough.
+> Notes 2019: I made a batch of Julie's from the WestJet Magazine with dark brown sugar and did not care for them.  A batch with plain white sugar was much better.  Chill the dough for 10 minutes before rolling.  Place first tray in the freezer while you cut the second tray.  12 minutes was enough. Used salted butter and didn't add more.
 
 [Source](http://lindttheseason.ca/recipes/classic-lindt-shortbread-sea-salt/)
 

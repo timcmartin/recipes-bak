@@ -16,3 +16,24 @@
 2. Add other ingredients.
 3. Cover with lid and pressure cook for 25 minutes.
 4. When done, release pressure, strain and refrigerate.
+
+# Alternate Version
+
+## Ingredients
+- 3 pounds of chicken wings
+- 1 Tbs vegetable oil
+- 1 chopped onion
+- 3 cloves garlic smashed
+- 3 bay leaves
+- 1/2 tsp salt
+- 12 cups water
+
+## Directions
+1. Pat wings dry with paper towels, set cooker to saute and add 1 Tbs oil.  Heat until smoking (5 minutes).
+2. Brown wings on both sides in batches.
+3. Pull wings, add onion and cook until brown and well softened - 12 minutes.
+4. Add garlic and cook until fragrant (30 seconds)
+5. Add 1 cup of water and deglaze.
+6. Add 11 cups, bay leaves, salt and wings - pressure on high for 1 hour
+7. After 1 hour, turn off pot and let steam release naturally for 15 minutes.
+8. Strain and skim fat.
