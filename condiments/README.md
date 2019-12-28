@@ -3,6 +3,7 @@
 * [BBQ Rub](bbq_rub.md)
 * [Blue Cheese Dressing](blue_cheese_dressing.md)
 * [Caesar Dressing](caesar_dressing.md)
+* [Carolina Gold Mustard Sauce](carolina_gold_mustard_sauce.md)
 * [Cheese Sauce](../sides/vegetable_medley.md#sauce)
 * [Chili Sauce](chili_sauce.md)
 * [Crema](crema.md)

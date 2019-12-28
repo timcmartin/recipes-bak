@@ -6,7 +6,7 @@
 * 2 large celery stalks, diced
 * 6 green onions, diced
 * 5 hard boiled eggs, peeled
-* 1½ cups Miracle Whip or mayonnaise
+* 1 1/2 cups Miracle Whip or mayonnaise
 * 1 tablespoon yellow mustard
 * 1½ teaspoons celery seed
 * kosher salt and freshly ground black pepper
@@ -21,3 +21,14 @@
 6. Mix well into the potato mixture and season with more salt and pepper if needed.
 7. Slice the last egg into thin slices and place the slices on top of the salad.
 8. Sprinkle with paprika if desired. Chill for at least 1 hour or overnight before serving.
+
+# Smashed Potato Salad
+* 3 pounds of potatoes cooked, 3 cups mashed, rest as is (15 minutes after come to boil).
+* Season 3 cups of mashed with 1 Tbs vinegar, others on baking sheet, season with 1 Tbs vinegar, cool to room temp (15 mins)
+* 1 cup mayo, 3 Tbs yellow mustard, 1/2 cup water, 1 tsp salt, 1 tsp pepper, 1/4 tsp cayenne -> add to mashed pots.
+* 1/2 cup chopped sweet pickle, 3 scallions, 1/4 cup finely chopped onion, 1/4 cup finely chopped celery, 3 chopped hard cooked eggs and other pots.
+* Cover and chll for 2 hours.
+
+# Easy Peel Hard Cooked Eggs
+* Steam for 13 minutes, ice bath for 15.
+* Place in plastic, lidded container, 1/2 filled with water and shake.

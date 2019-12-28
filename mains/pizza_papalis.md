@@ -2,8 +2,10 @@
 [Pizza Papalis - recipe](http://www.amyscookingadventures.com/2011/03/chicago-style-stuffed-pizza-popeye.html)
 
 [Detroit Pizza - recipe](https://www.cookscountry.com/recipes/9775-detroit-style-pizza?extcode=MCSKD10L0&ref=new_search_experience_1`)
+[Free Recipe Link](https://www.cookscountry.com/recipes/9775-detroit-style-pizza?sqn=5lzE2u4W7jKx8Zb/jyiVYXcHKuYV8X5oTRvUnPtrHO8%3D%0A&extcode=NSCIK10YT&utm_source=youtube&utm_medium=photo&utm_content=detroitpizza&utm_campaign=youtube)
 
 ## Dough
+
 ### Ingredients
 * 3 1/4 cups all purpose flour
 * ½ cup yellow corn meal
