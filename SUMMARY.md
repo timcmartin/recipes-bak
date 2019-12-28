@@ -70,6 +70,7 @@
     * [Chicken Pot Pie](mains/chicken_pot_pie.md)
     * [Coconut Curry Shrimp](mains/coconut_curry_shrimp.md)
     * [Deconstructed Turkey](mains/deconstructed_turkey.md)
+    * [Detroit Pizza](mains/detroit_pizza.md)
     * [Deviled Pork Chops](mains/deviled_pork_chops.md)
     * [Fettuccine Alfredo](mains/alfredo.md)
     * [Grain Bowls](mains/grain_bowls.md)
