@@ -170,4 +170,5 @@
     * [Dan Dan Noodles](trial/dandan.md)
     * [Donairs](trial/donairs.md)
     * [Flour Tortillas](trial/flour_tortillas.md)
+    * [Helluva Good Dip](trial/helluva_good_dip.md)
     * [Hellman's Mayo Clone](trial/hellmans.md)
