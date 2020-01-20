@@ -17,6 +17,7 @@
 2. Toast for 4-6 minutes med-high heat until you can smell them.
 3. Move toasted chilies to food processor to cool until crisp.
 4. Add the other ingredients and process for 2 mimutes.
+5. When done, process tomatoes in unwashed bowl.
 
 ### Beef
 * 2 lbs of 85 percent lean ground beef (ground chuck)
@@ -32,6 +33,7 @@
 * 1 onion chopped
 * 3 minced cloves of garlic
 * 2 minced chipotle peppers
+* 1 (14.5-ounce) can whole peeled tomatoes, processeed in food processor.
 * 2 c of water
 * 15 ounce can of pinto beans and liquid
 * 2 tsp sugar
@@ -45,7 +47,7 @@
 2. Add garlic and and cook for another minute
 3. Add beef and break up and cook until browned, 12 - 14 minutes
 4. Add spice mix and chipotles, stir to bloom
-5. Add tomatoes and stir.
+5. Add tomatoes, beans, water, sugar and stir.
 6. Bring to simmer, add lid and cook in oven at 275 for 1 1/2 to 2 hours
 7. Let sit uncovered for 10 minutes, leave fat and stir it in.
 8. 2 Tbs of cider vinegar and salt to finish.

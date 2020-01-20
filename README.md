@@ -30,3 +30,5 @@ I have tried to remember to include the source whenever possible, but when in do
 
 ## Notes
 * Cooks Illustrated Granola bars -> one bag of apricots
+* https://www.youtube.com/watch?v=GUrA24dd7y
+* https://www.americastestkitchen.com/recipes/9898-sichuan-braised-tofu-with-beef-mapo-tofu?sqn=5/dkjIG7O/4PogkK1zJ%2BjVzut9MbaYrXgWLoRLZjZxk%3D%0A
