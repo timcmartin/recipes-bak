@@ -3,26 +3,26 @@
 ## Dough
 
 ### Ingredients
-1 tablespoon extra-virgin olive oil
-2 1/4 cups (11 1/4 ounces) all-purpose flour
-1 1/2 teaspoons instant or rapid-rise yeast
-1 1/2 teaspoons sugar
-1 cup water, room temperature
-3/4 teaspoon salt
-10 ounces Monterey Jack cheese, shredded (2 1/2 cups)
+* 1 tablespoon extra-virgin olive oil
+* 2 1/4 cups (11 1/4 ounces) all-purpose flour
+* 1 1/2 teaspoons instant or rapid-rise yeast
+* 1 1/2 teaspoons sugar
+* 1 cup water, room temperature
+* 3/4 teaspoon salt
+* 10 ounces Monterey Jack cheese, shredded (2 1/2 cups)
 
 ## Sauce
 
 ### Ingredients
-1 cup canned crushed tomatoes
-1 tablespoon extra-virgin olive oil
-1 tablespoon chopped fresh basil
-1 garlic clove, minced
-1 teaspoon dried oregano
-1 teaspoon dried basil
-1/2 teaspoon sugar
-1/2 teaspoon pepper
-1/4 teaspoon salt
+* 1 cup canned crushed tomatoes
+* 1 tablespoon extra-virgin olive oil
+* 1 tablespoon chopped fresh basil
+* 1 garlic clove, minced
+* 1 teaspoon dried oregano
+* 1 teaspoon dried basil
+* 1/2 teaspoon sugar
+* 1/2 teaspoon pepper
+* 1/4 teaspoon salt
 
 * Combine all ingredients in bowl - can be refrigerated for 24 hours ahead
 
