@@ -1,4 +1,4 @@
-# Sourdough Bread
+ Sourdough Bread
 
 [Perfect Loaf](https://www.theperfectloaf.com/beginners-sourdough-bread/)
 
@@ -49,6 +49,7 @@
 
 ### Autolyse – 12:00 p.m.
 
+* NB. For 1 loaf, use 320 g of water, 2 loaves 641 g.
 * Using your hands, mix all the flour and most of the water (reserve 50g water for later) called for in the “Dough Mix” section above in a bowl until all dry bits are hydrated. Cover the bowl and store somewhere warm (near your levain is convenient) for 1 hour. Note that this autolyse stage does not incorporate or use salt or the levain build in any way, they are two separate entities at this point that will be mixed together later in the process.
 
 ### Mix – 1:00 p.m.
