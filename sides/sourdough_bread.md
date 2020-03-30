@@ -1,4 +1,4 @@
- Sourdough Bread
+# Sourdough Bread
 
 [Perfect Loaf](https://www.theperfectloaf.com/beginners-sourdough-bread/)
 
@@ -94,3 +94,82 @@
 * When done, carefully use your oven mitt to remove the bread from the combo cooker (I will grab a corner of the parchment paper and drag the cooked bread out of the cooker) and cool on a wire rack. Place the combo cooker back in the oven and bring the temperature back up to 500°F (260°C). Repeat for the second loaf.
 * Wait 1-2 hours before slicing the bread (I know, it’s hard to do this) to ensure the interior is set.
 * If you’re running into problems with baking in a Dutch oven, and have burned the bottom of your loaves, check out my guide on how to bake bread in a dutch oven for some fixes.
+
+## Another Loaf
+
+https://www.theperfectloaf.com/best-sourdough-recipe/
+
+### Levain
+
+* 30g Starter
+* 30g Whole Wheat flour
+* 30g White Flour
+* 60g Water
+
+### Bread
+* 406g Bread Flour
+* 32g Whole Wheat Flour
+* 352g Water (Add another 25 g if needed)
+* 10g Salt
+* 75g Levain
+
+### Directions
+1. Levain – 9:00 a.m.
+Build the liquid levain in the morning and store somewhere warm around 77-80ºF ambient for 5-6 hours. Alternatively, you can build your levain in the evening the night before and leave out at cooler, room temperatures (around 72ºF) and it should be ready in 10-12 hours.
+
+2. Autolyse – 12:30 p.m.
+Mix flour and water (reserve 50g water for the mix, later) very well in a bowl and cover. Ensure all dry flour is hydrated. Store near levain (we want the temperature of the dough to remain warm).
+
+3. Mix, Step 1 – 2:00 p.m.
+Note that I split the mixing phase into two steps.
+For the first step scoop out the required amount of levain on top of your autolysed dough and using about 15g of the reserved water hand-mix the levain into the dough, so it’s incorporated very well. Wait 30 minutes before adding the salt in Step 2.
+
+4. Mix, Step 2 – 2:30 p.m.
+30 minutes later spread the salt on top of the dough and use the remaining water to help dissolve. If your dough is already extremely wet, and you’re getting worried, you don’t have to use all the remaining water. Just spread it out and mix well with your hand, the dough is wet enough already to work the salt thoroughly.
+
+This dough does not require intensive mechanical mixing, we want to under-develop at mix time and build strength during bulk through fermentation and several sets of stretch and folds. After the salt is incorporated, perform folds for about 2-3 minutes in the bowl. Grab under one side, pull up and over to the other side, then rotate the bowl a bit and repeat. I do this probably 30 times or so (it goes fast and easy).
+
+In the end, the dough should still be shaggy, but it will be a little more smooth and will slightly start to hold itself together more in the bowl.
+If you’re a fan of the slap & fold mixing technique I’ve described in the past, you can do this but be aware that at this hydration it is difficult. If you’re up to the challenge (I do it occasionally) dump the dough out and slap/fold for 3-6 until the dough starts to hold its shape on the counter. You won’t get a super smooth dough, even with slap/fold.
+
+I find that the correct strength level of the dough at this point is important. You want the dough to be a little smoother after mixing, but not well developed. I know those are general terms, but try to remain observant of how the dough looks when you finish mixing and how it looks when you finish with bulk fermentation. If you find that by the end of bulk you can’t get the dough smooth & strong enough, next time mix a little bit longer to develop the dough a bit more before you start the bulk. Alternatively, you could add another set of stretch/fold’s in bulk.
+
+Transfer dough to a tub or thick-walled bowl for bulk fermentation.
+
+5. Bulk Fermentation – 2:45 p.m.
+At 78-82ºF ambient temperature bulk fermentation should go for about 4 hours. Perform six sets of stretch and folds during the bulk. The first three are at 15-minute intervals, and the last three are at 30-minute intervals. After these folds (2 hours and 15 minutes have gone by) let the dough rest for the remainder of your bulk fermentation (1 hour and 45 minutes).
+
+I stretch and fold more vigorously at the beginning of bulk than usual since the dough is extraordinarily slack and extensible (due to the high hydration of this recipe). Pick up one side of the dough with both hands and pull it up, just before tearing, and fold it over to the other side. Rotate your container and repeat 4 or 5 times. That is one set.
+
+Below you can see my dough halfway through bulk, after about 2 hours. No significant rise as of yet, but the edges are beginning to dome, and the texture of the dough is smoothing out slightly. We still have several more folds to do and more strength to build.
+
+It is essential that the dough is kept near 80ºF as much as possible (minor fluctuations up and down are ok). If temperatures dip down too far you might have to extend the duration of bulk fermentation to compensate, and vice versa. Use your judgment, the signs described below, and be flexible.
+
+At the end of bulk, your dough should look very gassy, some bubbles here and there and the edges where the dough meets the bowl should be slightly domed. You can see all these signs in the image below. When you gently shake the bowl, the entire mass jiggles from side to side — very alive. You’ll also notice that compared with the photo at the beginning of bulk, the dough is smoother and holds its edges, folds, and creases more readily (most of the bumps and ridges you see are due to trapped gasses from fermentation).
+
+6. Divide & Preshape – 6:45 p.m.
+Divide the dough into two masses; each scaled at 900 grams (essentially the dough mass in half). Lightly shape each mass into a round and let rest for 30 minutes uncovered. Act quickly when dealing with this dough and rely heavily on your bench knife. I try to use my hands as little as possible when dealing with the dough at this point.
+
+7. Shape – 7:15 p.m.
+Lightly flour the top of your dough rounds and flour the work surface. With this recipe use a little more flour on the surface than normal, the dough will be extremely sticky and wet. Flip each round and shape into a batard (see notes below) or boule, whatever your preference.
+
+I prefer to shape these as batards, and my shaping method is as follows:
+
+1. Flip pre-shaped round
+2. Fold the bottom up to about halfway
+3. Fold the left side over to about 3/4 to the right
+4. Fold the right side over to cover left
+5. Stretch top up & away from the center and fold down to about half (you’ll now have a “letter”)
+6. Grab a little of the dough at the sides near the top and stretch it over the center, so the dough crosses. Imagine lacing up a shoe where you first grab your laces and cross them over
+7. Repeat three times from top to bottom (the result will look like a laced up shoe)
+8. Take the bottom and gently roll the dough up to the top and try to seal it slightly when done rolling
+
+Alternatively, if the dough feels pretty strong, you could shape it by “cinching” up the dough. For more instruction on how to shape this dough as an oblong loaf, see my post on how to shape a batard (with video!).
+
+After shaping, let rest on the bench for a few minutes and then place it into a banneton that I lightly dusted with white rice flour. You’ll see above my bannetons give the dough plenty of room to relax and expand in the fridge overnight. While this dough doesn’t rise quite as much as when I use Central Milling’s T70 flour, you still want the loaf to have plenty of room. If your proofing container is on the small side, and you find your dough almost spilling over the edges, it might be time for a larger basket.
+
+8. Rest & Proof – 7:25 p.m.
+Cover your banneton with plastic and let the dough rest on the counter for 20 minutes. Then, retard in the refrigerator at 38ºF for 15-16 hours.
+
+9. Bake – Next Morning: Preheat oven at 9:00 a.m., Bake at 10:30 a.m.
+Preheat oven for 1.5 hours at 500ºF. Remove the dough from the fridge (there’s no need to let the dough come to room temperature) and uncover. Bake for 20 minutes at 500ºF with steam, and an additional 25-35 minutes at 450ºF, until done to your liking. I like to bake rather dark, so I sometimes extend this second half of baking until I get the crust I’m looking for.
