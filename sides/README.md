@@ -28,4 +28,5 @@
 * [Tortillas](tortillas.md)
 * [Una Kale Caesar](una_caesar.md)
 * [Vegetable Medley](vegetable_medley.md)
+* [Weeknight Sourdough](weeknight_sourdough.md)
 * [Yorkshire Pudding](yorkshire_pudding.md)

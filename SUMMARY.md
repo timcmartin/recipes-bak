@@ -152,6 +152,7 @@
     * [Tortillas](sides/tortillas.md)
     * [Una Kale Caesar](sides/una_caesar.md)
     * [Vegetable Medley](sides/vegetable_medley.md)
+    * [Weeknight Sourdough](sides/weeknight_sourdough.md)
     * [Yorkshire Pudding](sides/yorkshire_pudding.md)
 * [Snacks](snacks/README.md)
     * [Hot Donair Dip](snacks/hot_donair_dip.md)
