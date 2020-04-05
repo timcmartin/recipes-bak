@@ -2,6 +2,7 @@
 
 * [Banana Bread](banana_bread.md)
 * [Blueberry Mug Cake](blueberry_mug_cake.md)
+* [Butter Tart Pie](buttertart_pie.md)
 * [Cheesecake in a Jar](cheesecake.md)
 * [Chocolate Pudding](chocolate_pudding.md)
 * [Chocolate Zucchini Bread](chocolate_zucchini.md)
