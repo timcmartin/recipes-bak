@@ -123,6 +123,7 @@
     * [Pickled Peppers](preserving/pickled_peppers.md)
     * [Saskatoon Jam](preserving/saskatoon_jam.md)
     * [Strawberry Jam](preserving/strawberry_jam.md)
+    * [Tasso Ham](preserving/tasso_ham.md)
     * [Tomato Chow](preserving/tomato_chow.md)
 * [Sides](sides/README.md)
     * [Baked Beans](sides/baked_beans.md)
