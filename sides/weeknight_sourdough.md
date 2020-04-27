@@ -3,10 +3,11 @@
 [The Perfect Loaf](https://www.theperfectloaf.com/simple-weekday-sourdough-bread/)
 
 ## Levain Build
-* 7g Mature Starter
-* 80g Water
-* 39g Whole Wheat Flour
-* 39g Bread Flour
+
+* 7g mature starter
+* 80g water
+* 39g whole wheat flour
+* 39g bread flour
 
 ## Bread Build
 

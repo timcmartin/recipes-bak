@@ -33,3 +33,10 @@
 * 1/4 cup gochujang
 * 1/4 tsp. Chinese five–spice powder
 * Sesame seeds (for topping)
+
+## Directions
+1. Lay out on racks - no overlapping and cook until dried out.
+
+> First batch I did in the oven at 140 for 2 hours or so - turned out pretty good.
+
+> Second batch on the smoker - 140 > 170 for about 3.5 hours.

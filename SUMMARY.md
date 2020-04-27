@@ -91,6 +91,7 @@
     * [Pad Thai](mains/pad_thai.md)
     * [Pancakes](mains/pancakes.md)
     * [Perfect Ramen](mains/perfect_ramen.md)
+    * [Pesto](mains/pesto.md)
     * [Pizza Dough](mains/pizza_dough.md)
     * [Pizza Papalis](mains/pizza_papalis.md)
     * [Poached Eggs](mains/breakfast.md#poached_eggs)
