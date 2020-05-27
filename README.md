@@ -32,3 +32,24 @@ I have tried to remember to include the source whenever possible, but when in do
 * Cooks Illustrated Granola bars -> one bag of apricots
 * https://www.youtube.com/watch?v=GUrA24dd7y
 * https://www.americastestkitchen.com/recipes/9898-sichuan-braised-tofu-with-beef-mapo-tofu?sqn=5/dkjIG7O/4PogkK1zJ%2BjVzut9MbaYrXgWLoRLZjZxk%3D%0A
+
+## Sourdough Notes for Noobs
+
+Here are the instructions I follow - there are a lot of good guides around, but this seems to work alright for me.
+
+If I am going to be baking a lot, I leave my starter on the counter and refresh it every morning.
+60 grams of starter
+60 grams of flour (I use 30 g of whole wheat and 30 g of all purpose, but you can play with all sorts of flours, or go all AP)
+60 grams of room temp water
+Mix it all up, store at room temp, discard or bake with the rest.
+
+If I am not going to be baking, I put it in the fridge about 4 hours after feeding it.
+Once a week you can take it out for an hour or two, then feed it as above, let it sit for a few more hours then put it back in the fridge.
+
+If you want to bake with it, I take it out 2 days before and feed it in the morning and again at night to perk it up.
+
+There are lots of recipes you can use, but this is a good place to start: https://www.theperfectloaf.com/new-baker-start-here/
+
+There are some great tips and timings for weekday sourdough and weekend bakes.
+
+I usually halve the recipes to make 1 loaf at a time.

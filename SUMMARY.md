@@ -51,6 +51,7 @@
     * [Chocolate Pudding](desserts/chocolate_pudding.md)
     * [Chocolate Zucchini Bread](desserts/chocolate_zucchini.md)
     * [Dutchie Donuts](desserts/dutchies.md)
+    * [Hard Chocolate Sauce](desserts/hard_chocolate_sauce.md)
     * [Millionaire's Shortbread](desserts/millionaiares_shortbread.md)
     * [Pie Dough](desserts/pie_dough.md)
     * [Pumpkin Pie](desserts/pumpkin_pie.md)

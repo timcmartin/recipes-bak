@@ -173,3 +173,37 @@ Cover your banneton with plastic and let the dough rest on the counter for 20 mi
 
 9. Bake – Next Morning: Preheat oven at 9:00 a.m., Bake at 10:30 a.m.
 Preheat oven for 1.5 hours at 500ºF. Remove the dough from the fridge (there’s no need to let the dough come to room temperature) and uncover. Bake for 20 minutes at 500ºF with steam, and an additional 25-35 minutes at 450ºF, until done to your liking. I like to bake rather dark, so I sometimes extend this second half of baking until I get the crust I’m looking for.
+
+## Tartine Bread
+
+> https://www.youtube.com/watch?v=hNzJLP61nnQ
+
+### 12 Hour Levain
+
+| Weight | Ingredient         |
+|--------|--------------------|
+| 50 g   | Starter            |
+| 40 g   | Whole Wheat Flour  |
+| 40 g   | White Flour        |
+| 80 g   | Water (85 degrees) |
+
+### Dough
+
+| Weight | Ingredient             |
+|--------|------------------------|
+| 900 g  | Unbleached Bread Flour |
+| 100 g  | Whole Wheat Flour      |
+| 750 g  | Water (85 Degrees)     |
+| 20 g   | Kosher Salt            |
+| All    | Levain                 |
+
+1. Make the Levain 12 hours before you want to start mixing dough.
+2. Combine 700 g of water, levain and flour and mix until shaggy dough.  Let autolyse for 20 - 40 minutes.
+3. Stir salt into 50 g of water and mix into dough.
+4. 2 Hour Bulk Rise - fold every 25 minutes:
+  1. First 3 folds: 8 folds.
+  2. Folds 4 & 5: Coil folds.
+  3. Let rest 10 minutes after last fold.
+5. Divide and preshape - dust and cover with plastic and bench rest for 20-30 minutes.
+6. Shape, wrap and refrigerate from 3 - 12 hours.
+7. Preheat dutch oven at 500 degrees - 20 minutes covered, lower heat to 450 and cook until browned - 20 - 30 minutes.
