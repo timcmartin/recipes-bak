@@ -207,3 +207,24 @@ Preheat oven for 1.5 hours at 500ºF. Remove the dough from the fridge (there’
 5. Divide and preshape - dust and cover with plastic and bench rest for 20-30 minutes.
 6. Shape, wrap and refrigerate from 3 - 12 hours.
 7. Preheat dutch oven at 500 degrees - 20 minutes covered, lower heat to 450 and cook until browned - 20 - 30 minutes.
+
+## Halved
+
+### 12 Hour Levain
+
+| Weight | Ingredient         |
+|--------|--------------------|
+| 25 g   | Starter            |
+| 20 g   | Whole Wheat Flour  |
+| 20 g   | White Flour        |
+| 40 g   | Water (85 degrees) |
+
+### Dough
+
+| Weight | Ingredient             |
+|--------|------------------------|
+| 450 g  | Unbleached Bread Flour |
+| 50 g   | Whole Wheat Flour      |
+| 375 g  | Water (85 Degrees)     |
+| 10 g   | Kosher Salt            |
+| 105 g  | Levain                 |
