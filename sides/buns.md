@@ -9,7 +9,7 @@
 * 1 1/2 cups warm water
 * 1/4 cup vegetable oil
 * 1 egg
-* 1 tsp salt
+ 1 tsp salt
 
 ## Directions
 1. In a large bowl, combine 2 cups of the flour, the sugar and yeast. In another bowl, whisk together the water, oil and egg. Add to the flour mixture and stir until well blended. Add the remaining flour and salt, stirring until the dough comes together.
