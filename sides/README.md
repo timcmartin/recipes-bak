@@ -16,6 +16,7 @@
 * [Fondant Potatoes](fondant_potatoes.md)
 * [Garlic Bread](garlic_bread.md)
 * [Glazed Carrots](glazed_carrots.md)
+* [Hamburger Buns](hamburger_buns.md)
 * [Home Fries](../mains/breakfast.md#home_fries)
 * [CI Kale Caesar](ci_kale.md)
 * [No-Knead Bread](no_knead_bread.md)

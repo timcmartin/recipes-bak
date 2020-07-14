@@ -145,6 +145,7 @@
     * [Fondant Potatoes](sides/fondant_potatoes.md)
     * [Garlic Bread](sides/garlic_bread.md)
     * [Glazed Carrots](sides/glazed_carrots.md)
+    * [Hamburger Buns](sides/hamburger_buns.md)
     * [Home Fries](mains/breakfast.md#home_fries)
     * [No-Knead Bread](sides/no_knead_bread.md)
     * [Parker House Rolls](sides/parker_house_rolls.md)
