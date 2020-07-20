@@ -147,6 +147,7 @@
     * [Glazed Carrots](sides/glazed_carrots.md)
     * [Hamburger Buns](sides/hamburger_buns.md)
     * [Home Fries](mains/breakfast.md#home_fries)
+    * [Jalapeno Cheddar Corn Bread](sides/corn_bread.md#jalapeno_cheddar_cornbread)
     * [No-Knead Bread](sides/no_knead_bread.md)
     * [Parker House Rolls](sides/parker_house_rolls.md)
     * [Potato Salad](sides/potato_salad.md)
