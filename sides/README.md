@@ -18,7 +18,7 @@
 * [Glazed Carrots](glazed_carrots.md)
 * [Hamburger Buns](hamburger_buns.md)
 * [Home Fries](../mains/breakfast.md#home_fries)
-* [Jalapeno Cheddar Corn Bread](corn_bread.md#jalapeno_cheddar_cornbread)
+* [Jalapeno Cheddar Corn Bread](corn_bread.md#jcc)
 * [CI Kale Caesar](ci_kale.md)
 * [No-Knead Bread](no_knead_bread.md)
 * [Parker House Rolls](parker_house_rolls.md)

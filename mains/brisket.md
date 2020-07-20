@@ -1,11 +1,5 @@
 # Top 9 tips to make perfect barbecue brisket in your own backyard
 
-> Canada Day weekend, 2019 I rubbed my brisket with salt, pepper and red pepper flakes.
-Started smoking it around noon, at 270.  Wrapped at 165 in foil, done after 9 hours.
-Pulled off, and let cool in foil.  After 3 hours, sealed it in vacuum bag and put in the fridge.
-The next day, pulled it out about an hour before heating.  Put it in a cooler with boiling water,
-and let set for about 3 hours, but was good after 2.  Deeeeeeelicious.
-
 ## By Steven Raichlen - The New York Times
 
 Never in the annals of American barbecue has brisket — great brisket — been so widely available.
@@ -85,3 +79,22 @@ Carving a brisket flat is easy: Simply slice it across the grain to the thicknes
 Yes, restaurant-quality brisket can be made at home, with surprisingly few ingredients and not that much prep time. But it still requires considerable attention and supervision.
 
 “There are no shortcuts,” Franklin said. “People know what you had to go through to get it right.”
+
+## Cooking Notes
+
+### Canada Day Weekend, 2019
+
+> Canada Day weekend, 2019 I rubbed my brisket with salt, pepper and red pepper flakes.
+Started smoking it around noon, at 270.  Wrapped at 165 in foil, done after 9 hours.
+Pulled off, and let cool in foil.  After 3 hours, sealed it in vacuum bag and put in the fridge.
+The next day, pulled it out about an hour before heating.  Put it in a cooler with boiling water,
+and let set for about 3 hours, but was good after 2.  Deeeeeeelicious.
+
+### July 20, 2020
+
+> July 20, 2020 just for fun.  12 pounds, dalmation rub, WSM.  Went to start smoker and wind and rain kicked up - decided to wait.
+Got up around 3, and started smoker - 1/2 chimney (a little too much) and filled bottom ring with more charcoal and oak and cherry chunks.
+Trimmed and rubbed brisket - charcoal wouldn't start.  Restarted - too hot so took out some coals which worked.
+Brisket on at 4, BBQ Guru set to 260.  Stayed pretty true, up to 300 at one point, but seemed to be just a flare up.
+Wrapped at 150, got up to 203 - 9 hours.  Pulled off to rest in cooler.  Bark was a little light, but smoke ring was off the hook.
+Very juicy, perfectly cooked.

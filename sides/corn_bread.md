@@ -22,7 +22,7 @@
 6. Pour batter into prepared baking pan. Bake for 20 minutes or until golden brown on top and the center is cooked through. Use a toothpick to test. Edges should be crispy at this point! Allow to slightly cool before slicing and serving. Serve cornbread with butter, honey, jam, whatever you like. Wrap leftovers up tightly and store at room temperature for up to 1 week.
 7. Make ahead tip: For longer storage, freeze baked cornbread for up to 3 months. Allow to thaw overnight in the refrigerator and heat up in the microwave or bake in a 300°F (149°C) oven for 10 minutes.
 
-# [Jalapeno Cheddar Cornbread](#jalapeno_cheddar_cornbread)
+# [Jalapeno Cheddar Cornbread](#jcc)
 
 [Basics With Babish](https://basicswithbabish.co/basicsepisodes/cornbread)
 
