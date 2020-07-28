@@ -160,6 +160,7 @@
     * [Weeknight Sourdough](sides/weeknight_sourdough.md)
     * [Yorkshire Pudding](sides/yorkshire_pudding.md)
 * [Snacks](snacks/README.md)
+    * [Beef Jerky](snacks/beef_jerky.md)
     * [Hot Donair Dip](snacks/hot_donair_dip.md)
     * [Hummus](snacks/hummus.md)
     * [Nuts & Bolts](snacks/nuts_bolts.md)

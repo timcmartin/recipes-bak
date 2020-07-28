@@ -1,5 +1,6 @@
 # Snacks
 
+* [Beef Jerky](beef_jerky.md)
 * [Hot Donair Dip](hot_donair_dip.md)
 * [Hummus](hummus.md)
 * [Popcorn Maker](popcorn_maker.md)
