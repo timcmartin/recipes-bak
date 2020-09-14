@@ -69,3 +69,16 @@
 | Fire Roasted Tomatoes  | Sep 22, 2019 |        | 3      |        |     |
 | Whole Tomatoes         | Sep 1, 2018  |        |        |        | 3   |
 | Whole Tomatoes         | Sep 22, 2019 |        |        | 9      | 12  |
+
+## 2020
+
+* Canning at home, backyard ripped up
+
+| Date            | Weight | Yield       | Description                     | Notes                                                                                     |
+|-----------------|--------|-------------|---------------------------------|-------------------------------------------------------------------------------------------|
+| Saturday Sept 5 | 20 lbs | 6 Litres    | Chili Sauce                     | 12 X 500 <br>Double batch of Marilyn's recipe.  Got excellent tomatoes at DJs (20 pounds) |
+| Saturday Sept 5 | 4 lbs  | 5.75 Litres | Dill Pickles                    | 7 X 750, 1 X 500 <br>Sames recipe as last year.<br> Cukes from DJs.                       |
+| Saturday Sept 5 | 6 lbs  | 4 Litres    | Breand and Butter Pickles       | 8 X 500 <br>Same recipe as last year.                                                     |
+| Monday Sept 7   | 2 lbs  | 1 Litre     | Pickled Golden Beets            | 2 X 500 <br>Traditional Pickled Beet Recipe (Canning Kitchen)                             |
+| Monday Sept 7   | 4 lbs  | 2 Litre     | Pickled Hot Cherry Bomb Peppers | 4 X 500                                                                                   |
+| Sunday Sept 13  | 5 lbs  | 3 Litres    | Pickled Golden Beets            | 6 X 500 <br>Used Foolproof Preserving recipe with Ginger and Star Anise                   |
