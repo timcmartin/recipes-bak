@@ -2,6 +2,7 @@
 
 * [Baked Ziti](baked_ziti.md)
 * [Beef And Bean Chili](beef_and_bean_chili.md)
+* [Beef Stew](beef_stew.md)
 * [Beef Stir Fry](beef_stirfry.md)
 * [Bolognese](weeknight_bolognese.md)
 * [Breakfast](breakfast.md)
