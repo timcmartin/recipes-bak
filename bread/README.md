@@ -1,5 +1,6 @@
 # Bread
 
+* [Easy Biscuits](easy_biscuits.md)
 * [English Muffins](english_muffins.md)
 * [No-Knead Bread](no_knead_bread.md)
 * [Parker House Rolls](parker_house_rolls.md)
