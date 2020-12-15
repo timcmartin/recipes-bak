@@ -20,6 +20,7 @@
     * [French Press Coffee](beverages/french_press.md)
     * [Percolator Coffee](beverages/percolator_coffee.md)
 * [Bread](bread/README.md)
+    * [Easy Biscuits](bread/easy_biscuits.md)
     * [English Muffins](bread/english_muffins.md)
     * [No-Knead Bread](bread/no_knead_bread.md)
     * [Parker House Rolls](bread/parker_house_rolls.md)
