@@ -70,6 +70,7 @@
     * [Strawberry Peach Cobbler](desserts/strawberry_peach_cobbler.md)
     * [Strawberry Rhubarb Crisp](desserts/strawberry_rhubarb.md)
 * [Mains](mains/README.md)
+    * [Air Fryer Wings](mains/air_fryer_wings.md)
     * [Baked Ziti](mains/baked_ziti.md)
     * [Beef And Bean Chili](mains/beef_and_bean_chili.md)
     * [Beef Stew](mains/beef_stew.md)
