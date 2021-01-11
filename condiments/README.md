@@ -19,6 +19,7 @@
 * [Pesto](pesto.md)
 * [Pizza Sauce](pizza_sauce.md)
 * [Rub](rub.md)
+* [Salsa Verde](salsa_verde.md)
 * [Smokey Butter Baste](../mains/oven_ribs.md#smokey_butter)
 * [Taco Seasoning](taco_seasoning.md)
 * [Tomato Sauce](tomato_sauce.md)
