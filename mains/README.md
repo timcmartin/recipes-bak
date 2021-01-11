@@ -32,6 +32,7 @@
 * [Oven Ribs](oven_ribs.md)
 * [Pad Thai](pad_thai.md)
 * [Pancakes](pancakes.md)
+* [Pasta With Cauliflower](pasta_with_cauliflower.md)
 * [Perfect Ramen](perfect_ramen.md)
 * [Pesto](pesto.md)
 * [Pizza Dough](pizza_dough.md)
