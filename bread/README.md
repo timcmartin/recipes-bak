@@ -2,6 +2,7 @@
 
 * [Easy Biscuits](easy_biscuits.md)
 * [English Muffins](english_muffins.md)
+* [Naan](naan.md)
 * [No-Knead Bread](no_knead_bread.md)
 * [Parker House Rolls](parker_house_rolls.md)
 * [Perfect Loaf Sourdough](pl_sourdough.md)
