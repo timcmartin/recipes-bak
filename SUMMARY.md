@@ -55,6 +55,7 @@
     * [Tomato Sauce](condiments/tomato_sauce.md#tomato-sauce)
     * [Turkey Gravy](condiments/turkey_gravy.md)
 * [Desserts](desserts/README.md)
+    * [Apple Crumble](desserts/apple_crumble.md)
     * [Banana Bread](desserts/banana_bread.md)
     * [Blueberry Mug Cake](desserts/blueberry_mug_cake.md)
     * [Butter Tart Pie](desserts/buttertart_pie.md)

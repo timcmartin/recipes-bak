@@ -1,5 +1,6 @@
 # Desserts
 
+* [Apple Crumble](apple_crumble.md)
 * [Banana Bread](banana_bread.md)
 * [Blueberry Mug Cake](blueberry_mug_cake.md)
 * [Butter Tart Pie](buttertart_pie.md)
