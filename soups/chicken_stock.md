@@ -37,3 +37,18 @@
 6. Add 11 cups, bay leaves, salt and wings - pressure on high for 1 hour
 7. After 1 hour, turn off pot and let steam release naturally for 15 minutes.
 8. Strain and skim fat.
+
+# Milk Street
+[Milk Street Instant Pot](https://www.177milkstreet.com/recipes/instant-pot-chicken-broth-fast-slow)
+
+## Ingredients
+* 3 1/2 - 4 pounds of chicken wings
+* 1 large yellow onion, halved and thinly sliced
+* 2 quarts of water
+* 2 bay leaves
+* kosher salt
+
+## Directions
+1. In a 6-quart Instant Pot, combine the chicken, onion, bay, 1 teaspoon salt and 2 quarts water.
+2. Lock the lid in place and move the pressure valve to Sealing. Select Pressure Cook or Manual; make sure the pressure level is set to High. Set the cooking time for 1 hour. When pressure cooking is complete, let the pressure release naturally for 20 minutes, then release any remaining steam by moving the pressure valve to Venting. Press Cancel, then carefully open the pot.
+3. Cool for about 30 minutes. Strain the broth through a fine mesh strainer set over a large bowl. Cool to room temperature, then use a wide spoon to skim off and discard any fat on the surface. (Alternatively, once the broth has cooled, cover and refrigerate until cold, then scrape the congealed fat off the surface.)
