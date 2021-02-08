@@ -18,6 +18,7 @@
     * [Breakfast Smoothie](beverages/smoothie.md)
     * [Cold Brew Coffee](beverages/cold_brew_coffee.md)
     * [French Press Coffee](beverages/french_press.md)
+    * [Irish Cream](beverages/irish_cream.md)
     * [Percolator Coffee](beverages/percolator_coffee.md)
 * [Bread](bread/README.md)
     * [Easy Biscuits](bread/easy_biscuits.md)
