@@ -8,6 +8,7 @@
 * [Chocolate Pudding](chocolate_pudding.md)
 * [Chocolate Zucchini Bread](chocolate_zucchini.md)
 * [Dutchie Donuts](dutchies.md)
+* [Gravity Carrot Cake](gravity_carrot_cake.md)
 * [Hard Chocolate Sauce](hard_chocolate_sauce.md)
 * [Millionaire's Shortbread](millionaiares_shortbread.md)
 * [Pie Dough](pie_dough.md)
