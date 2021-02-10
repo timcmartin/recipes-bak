@@ -129,6 +129,7 @@
     * [Tuna Lasagna](mains/tuna_lasagna.md)
     * [Tuscan Steak Salad](mains/tuscan_steak.md)
     * [Waffles](mains/waffles.md)
+    * [Welsh Rarebit](mains/welsh_rarebit.md)
 * [Miscellaneous](misc/README.md)
     * [Dog Food](misc/dog_food.md)
     * [Squirrel Repellant - Dry](misc/squirrel.md)

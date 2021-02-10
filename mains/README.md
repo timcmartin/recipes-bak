@@ -53,3 +53,4 @@
 * [Tuna Lasagna](tuna_lasagna.md)
 * [Tuscan Steak Salad](tuscan_steak.md)
 * [Waffles](waffles.md)
+* [Welsh Rarebit](welsh_rarebit.md)
