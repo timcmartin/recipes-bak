@@ -69,6 +69,7 @@
     * [Hard Chocolate Sauce](desserts/hard_chocolate_sauce.md)
     * [Millionaire's Shortbread](desserts/millionaiares_shortbread.md)
     * [Pie Dough](desserts/pie_dough.md)
+    * [Pouding Chomeur](desserts/pouding_chomeur.md)
     * [Pumpkin Pie](desserts/pumpkin_pie.md)
     * [Salted Caramel Chocolate Stack Bars](desserts/salted_caramel_bars.md)
     * [Salted Peanut And Caramel Tart](desserts/salted_peanut_caramel_tart.md)
