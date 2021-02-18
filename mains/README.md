@@ -1,6 +1,7 @@
 # Mains
 
 * [Air Fryer Wings](air_fryer_wings.md)
+* [Argentinian Style Steak](argentinian_style_steak.md)
 * [Baked Ziti](baked_ziti.md)
 * [Beef And Bean Chili](beef_and_bean_chili.md)
 * [Beef Stew](beef_stew.md)
