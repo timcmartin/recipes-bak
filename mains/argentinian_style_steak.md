@@ -20,7 +20,7 @@ Chimichurri
 5. Heat the oven to 250 with the rack in the middle position
 6. Place the baking sheet with the steaks in the oven and cook until the centres reach 110, 45 to 55 minutes.  Remove from the oven and let stand for up to 30 minutes.
 7. In a cast-iron skillet over medium-high heat, heat the oil until barely smoking.
-8. Place the steas in teh skillet and cook without moving for about 3 minutes.  Flip and cook another 3 minutes until the centre reaches 120.
+8. Place the steas in the skillet and cook without moving for about 3 minutes.  Flip and cook another 3 minutes until the centre reaches 120.
 9. Transfer the steaks to a large plate and let rest for 10 minutes.
 10. Carve, pour on the accumulated juices and sprinkle with thhe reserved seasoning mixture.  Drizzle with a few spoonfuls of chimichurri.
 
