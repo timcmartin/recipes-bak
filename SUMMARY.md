@@ -88,7 +88,6 @@
     * [Breakfast](mains/breakfast.md)
     * [Brisket](mains/brisket.md)
     * [Cabbage Rolls](mains/cabbage_rolls.md)
-    * [Cauliflower Pizza Crust](mains/cauliflower_pizza.md)
     * [Chicken And Sliders](mains/chicken_and_sliders.md)
     * [Chicken Pot Pie](mains/chicken_pot_pie.md)
     * [Chicken Vindaloo](mains/chicken_vindaloo.md)
