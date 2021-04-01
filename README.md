@@ -53,3 +53,6 @@ There are lots of recipes you can use, but this is a good place to start: https:
 There are some great tips and timings for weekday sourdough and weekend bakes.
 
 I usually halve the recipes to make 1 loaf at a time.
+
+## Stuffed Shells
+* If you x1.5 the recipe you have plenty to fill a 9x13 & an 8x8, you use all the ricotta in the container, and all the shells in the box!
