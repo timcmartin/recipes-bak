@@ -7,6 +7,7 @@
 * [Cheese Sauce](../sides/vegetable_medley.md#sauce)
 * [Chili Sauce](chili_sauce.md)
 * [Chimichurri](../mains/argentinian_style_steak.md#chimichurri)
+* [Cream Cheese](cream_cheese.md)
 * [Crema](crema.md)
 * [Hollandaise](../mains/breakfast.md#hollandaise)
 * [Horseradish Cream](horseradish_cream.md)
