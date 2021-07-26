@@ -4,13 +4,13 @@
 
 ## Ingredients
 
-2 tablespoons Kosher salt
-1 tablespoon ground black pepper
-1 tablespoon freshly grated nutmeg (from 2 whole nutmegs)
-2 teaspoons white sugar
-2 20-ounce strip steaks (each about 2 inches thick), patted dry
-2 tablespoons grapeseed or other neutral oil
-Chimichurri
+* 2 tablespoons Kosher salt
+* 1 tablespoon ground black pepper
+* 1 tablespoon freshly grated nutmeg (from 2 whole nutmegs)
+* 2 teaspoons white sugar
+* 2 20-ounce strip steaks (each about 2 inches thick), patted dry
+* 2 tablespoons grapeseed or other neutral oil
+* Chimichurri
 
 ## Directions
 1. Set a wire rack in a rimmed baking sheet.
