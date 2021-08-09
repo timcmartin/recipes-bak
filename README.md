@@ -9,6 +9,7 @@ I have tried to remember to include the source whenever possible, but when in do
 * Calgary is at 3500 feet -> add 10 minutes processing time to boiling water canning (from sea level).
 * Water boils at 212 F (sea level) 205 F (Calgary) - subtract 7 degrees from target temps.
 * Hot water bath (pickle canning) no need to adjust time.
+* 1 tsp anchovy paste => 1 anchovy
 
 ### [Other Conversions](https://www.cooksillustrated.com/how_tos/5490-baking-conversion-chart)
 

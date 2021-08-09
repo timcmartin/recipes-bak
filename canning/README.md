@@ -82,3 +82,17 @@
 | Monday Sept 7   | 2 lbs  | 1 Litre     | Pickled Golden Beets            | 2 X 500 <br>Traditional Pickled Beet Recipe (Canning Kitchen)                             |
 | Monday Sept 7   | 4 lbs  | 2 Litre     | Pickled Hot Cherry Bomb Peppers | 4 X 500                                                                                   |
 | Sunday Sept 13  | 5 lbs  | 3 Litres    | Pickled Golden Beets            | 6 X 500 <br>Used Foolproof Preserving recipe with Ginger and Star Anise                   |
+
+## 2021
+
+* Canning at home, cukes are early this year
+* Got 20 lbs => first filled every widemouth 750mL & 500mL jar I had, plus 4 1Litre jars.  Made the rest into sour dills.
+* Used the [Dill Pickles](/preserving/dill_pickles.md) recipe (updated the brine amounts to be more realistic)
+* Made 10 lbs day one (Saturday) finished the rest the next day.
+* Approx 8 heads of garlic and 2 large bunches of dill.
+
+| Date         | Weight | Yield          | Description       | Notes                                   |
+|--------------|--------|----------------|-------------------|-----------------------------------------|
+| Sunday Aug 8 | 16 lbs | 16.25 litres   | Dill Pickles      | 4 * 1Litre, 9 * 750mL, 11 * 500 mL      |
+| Sunday Aug 8 | 4 lbs  | 2 Gallon Crock | Sour Dill Pickles | Start Scumming on 10th<br> Taste Aug 16 |
+
