@@ -8,6 +8,7 @@ Recipes that I haven't tried yet, but am saving for posterity.
 * [Buttermilk Substitute](buttermilk.md)
 * [Chili Crisp](chili_crisp.md)
 * [Cream Cheese](cream_cheese.md)
+* [Cocktail Crisps](cocktail_crisps.md)
 * [Dan Dan Noodles](dandan.md)
 * [Donairs](donairs.md)
 * [Flour Tortillas](flour_tortillas.md)
