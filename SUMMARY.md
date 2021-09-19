@@ -152,6 +152,7 @@
     * [Strawberry Jam](preserving/strawberry_jam.md)
     * [Tasso Ham](preserving/tasso_ham.md)
     * [Tomato Chow](preserving/tomato_chow.md)
+    * [Tomato Sauce](preserving/tomato_sauce.md)
 * [Sides](sides/README.md)
     * [Baked Beans](sides/baked_beans.md)
     * [Baked Potatoes](sides/baked_potatoes.md)

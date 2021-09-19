@@ -15,4 +15,5 @@
 1. Cream butter and cheesee together and add seasonings.
 2. Beat in flour, then add Rice Krispies.  Mix well.
 3. Shape into balls and press down with a fork which has been dipped in cold water.
-4. Bake at 350 for 15 - 20 minutes until lightly browned.
+4. Alternatively, roll into logs, chill and slice for thinner crisps.
+5. Bake at 350 for 15 - 20 minutes until lightly browned.

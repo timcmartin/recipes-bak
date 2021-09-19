@@ -90,9 +90,24 @@
 * Used the [Dill Pickles](/preserving/dill_pickles.md) recipe (updated the brine amounts to be more realistic)
 * Made 10 lbs day one (Saturday) finished the rest the next day.
 * Approx 8 heads of garlic and 2 large bunches of dill.
+* Sour Dills:
+  * Weren't sour enough so let sit another week.
+  * Likely used too much garlic and chili peppers - spice takes away from sourness.
+  * Got 2 litres - strained brine and put in fridge, Aug 23
+* Tomato Sauce:
+  * 30 pounds of tomatoes - 10 pounds Roma, 20 pounds field
+  * Used Totes to wash, big canning and stock pots to cook toms, medium brewing vessel to catch sauce.
+  * Used a new sauce strainer
+  * Cooked tomatoes for 5 minutes, then processed through strainer - about 8 litres
+  * Too watery - cooked down until about 6 litres - almost 2 hours
+  * I used [this](/preserving/tomato_sauce.md) method, but only used 1 big pot - try the 4 next time.
+  * Canned - processed 50 minutes
+  * Just try Roma tomatoes next year
 
-| Date         | Weight | Yield          | Description       | Notes                                   |
-|--------------|--------|----------------|-------------------|-----------------------------------------|
-| Sunday Aug 8 | 16 lbs | 16.25 litres   | Dill Pickles      | 4 * 1Litre, 9 * 750mL, 11 * 500 mL      |
-| Sunday Aug 8 | 4 lbs  | 2 Gallon Crock | Sour Dill Pickles | Start Scumming on 10th<br> Taste Aug 16 |
+| Date            | Weight | Yield                               | Description         | Notes                                                                             |
+|-----------------|--------|-------------------------------------|---------------------|-----------------------------------------------------------------------------------|
+| Sunday Aug 8    | 16 lbs | 16.25 litres                        | Dill Pickles        | 4 * 1Litre, 9 * 750mL, 11 * 500 mL                                                |
+| Sunday Aug 8    | 4 lbs  | 2 Gallon Crock, 2 litres in the end | Sour Dill Pickles   | Start Scumming on 10th<br> Taste Aug 16<br> Not sour enough, Let sit until Aug 23 |
+| Saturday Sep 18 | 10 lbs | 9 pints, 4.5 litres                 | Chili Sauce         | Marilyn's regular recipe<br> Got tomatoes at DJ market                            |
+| Saturday Sep 18 | 30 lbs | 6 litres                            | Tomato Sauce        | Used combo of Youtube and DIY Cookbook Summer Sauce                               |
 
