@@ -18,3 +18,9 @@
 3. Blend and strain out solids.
 4. Return to blender add salt, sugar, vinegar.
 5. Add Xanthan Gum while running.
+
+## Notes
+* Started this on October 19, processed October 26
+* Made a double batch - 2 batches in 2 jars with Lee Valley lids..
+* Good flavour, first taste was a little salty, did not add the extra 4 tsp of salt at the end.
+* Made about 2 litres
